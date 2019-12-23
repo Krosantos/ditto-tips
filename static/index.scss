@@ -1,0 +1,33 @@
+@import '@theme/color.scss';
+
+html, body {
+    margin:0;
+    background-color: $pink;
+    color: $smoke;
+    height: 100%;
+    width: 100%;
+    font-weight: bold;
+    font-family: "Dosis", sans-serif;
+}
+
+@font-face {
+    font-family: 'Baloo';
+    src: url("./fonts/Baloo.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Dosis';
+    src: url("./fonts/Dosis.ttf") format('truetype');
+}
+
+button {
+    border-width: 0px;
+    border-style: solid;
+    outline: none;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}

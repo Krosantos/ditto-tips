@@ -1,0 +1,11 @@
+{
+	"extends": "eslint-config-tecca",
+	"settings": {
+		"import/resolver": {
+			"webpack": {}
+		}
+	},
+	"rules": {
+		"multiline-ternary":"off"
+	}
+}
