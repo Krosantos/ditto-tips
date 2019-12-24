@@ -2,7 +2,9 @@
 	"extends": "eslint-config-tecca",
 	"settings": {
 		"import/resolver": {
-			"webpack": {}
+			"webpack": {
+				"config": "webpack.config.js"
+			}
 		}
 	},
 	"rules": {

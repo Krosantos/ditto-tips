@@ -5,7 +5,6 @@ import Calculator from '@pages/calculator';
 import Breeding from '@pages/breeding';
 import Training from '@pages/training';
 import Data from '@pages/data';
-import { router } from './Layout.scss';
 
 const Routes = () => (
 	<Switch>
