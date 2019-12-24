@@ -89,6 +89,7 @@ module.exports = {
 	],
 	resolve: {
 		alias: {
+			'@constants': path.resolve(__dirname, 'src', 'constants'),
 			'@images': path.resolve(__dirname, 'static', 'images'),
 			'@pages': path.resolve(__dirname, 'src', 'pages'),
 			'@shared': path.resolve(__dirname, 'src', 'shared'),
