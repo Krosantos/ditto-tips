@@ -1,13 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '@images/wave.png'; // eslint-disable-line import/no-unassigned-import
-import { header, link, cell } from './Layout.scss';
+import { header, link, cell } from './layout.scss';
 
 const TITLE = 'Ditto-Tips';
-const CALCULATOR = 'Calculator';
+const CALCULATOR = 'Egg Calculator';
 const BREEDING = 'Breeding Guide';
 const TRAINING = 'Training Guide';
-const DATA = 'Data Tables';
+const DATA = 'Glossary/Appendix';
 
 const Header = () => (
 	<div className={header}>
