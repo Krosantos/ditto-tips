@@ -46,8 +46,16 @@
   transition: all 150ms ease-in-out;
 }
 
+.footer {
+  display: flex;
+  flex-direction: column;
+  background-color: $dark;
+  color: $white;
+  font-size: 11px;
+}
+
 .wrapper {
-    margin: 41px 16px 16px 16px;
+    margin: 41px 0px 16px 0px;
     width: 100%;
     display: flex;
     flex-direction: column;

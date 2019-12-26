@@ -1,0 +1,40 @@
+@import "@theme/color";
+
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 16px;
+    align-items: center;
+    background-color: $main;
+}
+
+.entry {
+  display: flex;
+  width: 80%;
+  padding: 16px 0px;
+  border-bottom: 1px solid $smoke;
+}
+
+.imagebox {
+    display: flex;
+    flex-wrap: wrap;
+    > img {
+        max-width: 100%;
+    }
+}
+
+.title {
+  display: flex;
+  min-width: 25%;
+  max-width: 25%;
+  margin-right: 16px;
+  flex-direction: column;
+  align-items: center;
+  & > h2 {
+    display: block;
+    margin: 0px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Baloo";
+  }
+}
