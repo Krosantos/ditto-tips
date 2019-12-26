@@ -1,5 +1,7 @@
 import React from 'react';
-import { entry, title, imagebox } from './entry.scss';
+import {
+	anchor, entry, title, imagebox,
+} from './entry.scss';
 
 const Images = ({ images }) => (
 	<div className={imagebox}>
@@ -7,9 +9,12 @@ const Images = ({ images }) => (
 	</div>
 );
 
-const Entry = ({ name, images, description }) => (
-	<div className={entry} name={name}>
+const Entry = ({
+	link, name, images, description,
+}) => (
+	<div className={entry}>
 		<div className={title}>
+			<div className={anchor} id={link} />
 			<h2>{name}</h2>
 			{images && <Images images={images} />}
 		</div>
