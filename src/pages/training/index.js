@@ -1,9 +1,11 @@
 import React from 'react';
-
-const TRAINING = 'Training';
+import { container } from './training.scss';
+import EVs from './EVs';
 
 const Training = () => (
-	<div>{TRAINING}</div>
+	<div className={container}>
+		<EVs />
+	</div>
 );
 
 export default Training;

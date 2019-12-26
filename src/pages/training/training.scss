@@ -1,0 +1,26 @@
+@import "@theme/color.scss";
+@import "@theme/media.scss";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 16px;
+  align-items: center;
+  background-color: $main;
+  width: 100%;
+}
+
+.section {
+  @media #{$desktop} {
+    padding: 32px;
+    margin-bottom: 16px;
+  }
+  @media #{$mobile} {
+    padding: 16px;
+    margin-bottom: 8px;
+  }
+
+  background-color: $pink;
+  border-radius: 4px;
+  width: 80%;
+}

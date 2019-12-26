@@ -60,7 +60,7 @@
   content: "";
   position: absolute;
   left: 0;
-  bottom: -25px;
+  bottom: -24px;
   right: 0;
   background-repeat: no-repeat;
   width: 100%;
@@ -106,6 +106,7 @@
   background-color: $dark;
   color: $white;
   font-size: 11px;
+  padding: 4px;
 }
 
 .wrapper {

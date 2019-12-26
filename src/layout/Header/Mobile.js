@@ -10,10 +10,11 @@ const CALCULATOR = 'Egg Calculator';
 const BREEDING = 'Breeding Guide';
 const TRAINING = 'Training Guide';
 const DATA = 'Glossary/Appendix';
+const EGG_GROUPS = 'Egg Groups';
 
 const Menu = ({ open, toggleMenu }) => {
 	const containerStyle = useMemo(() => ({
-		height: open ? '33vh' : '0px',
+		height: open ? '45vh' : '0px',
 	}), [open]);
 
 	return (
@@ -23,6 +24,7 @@ const Menu = ({ open, toggleMenu }) => {
 				<Link className={link} onClick={toggleMenu} to="/breeding">{BREEDING}</Link>
 				<Link className={link} onClick={toggleMenu} to="/training">{TRAINING}</Link>
 				<Link className={link} onClick={toggleMenu} to="/data">{DATA}</Link>
+				<Link className={link} onClick={toggleMenu} to="/egg-groups">{EGG_GROUPS}</Link>
 			</div>
 		</div>
 	);

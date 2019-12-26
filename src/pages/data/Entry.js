@@ -1,6 +1,7 @@
 import React from 'react';
+import Anchor from '@shared/Anchor';
 import {
-	anchor, entry, title, imagebox,
+	entry, title, imagebox,
 } from './entry.scss';
 
 const Images = ({ images }) => (
@@ -14,7 +15,7 @@ const Entry = ({
 }) => (
 	<div className={entry}>
 		<div className={title}>
-			<div className={anchor} id={link} />
+			<Anchor id={link} />
 			<h2>{name}</h2>
 			{images && <Images images={images} />}
 		</div>

@@ -48,7 +48,7 @@ const entries = {
 		images: [destinyknot],
 	},
 	Ditto: {
-		description: 'The only species of pokémon capable of breeding with any species capable of reproducing. Any pokémon left in the nursery with Ditto is considered female for breeding purposes, including pokémon which do not usually have a gender (and which are hence unable to reproduce otherwise). Can be caught in the Lake of Outrage in the Wild Area, or in Max Raids.',
+		description: 'The only species of pokémon capable of breeding with any species able to reproduce. Any pokémon left in the nursery with Ditto is considered female for breeding purposes, including pokémon which do not usually have a gender (and which are hence unable to reproduce otherwise). Can be caught in the Lake of Outrage in the Wild Area, or in Max Raids.',
 		images: [ditto],
 	},
 	'Egg Group': {

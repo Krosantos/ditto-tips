@@ -1,4 +1,5 @@
 @import "@theme/color";
+@import "@theme/media.scss";
 
 .container {
   display: flex;
@@ -6,6 +7,24 @@
   padding: 0px 16px;
   align-items: center;
   background-color: $main;
+}
+
+.linkbox {
+  @media #{$desktop} {
+    width: 60%;
+  }
+  @media #{$mobile} {
+    width: 90%;
+  }
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  a {
+    color: $smoke;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
 .entry {
@@ -38,14 +57,5 @@
     font-size: 18px;
     font-weight: bold;
     font-family: "Baloo";
-  }
-}
-
-.anchor {
-  &:target {
-    display: block;
-    position: relative;
-    visibility: hidden;
-    top: -106px;
   }
 }

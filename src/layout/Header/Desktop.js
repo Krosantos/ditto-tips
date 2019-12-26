@@ -7,6 +7,7 @@ const CALCULATOR = 'Egg Calculator';
 const BREEDING = 'Breeding Guide';
 const TRAINING = 'Training Guide';
 const DATA = 'Glossary/Appendix';
+const EGG_GROUPS = 'Egg Groups';
 
 const Desktop = () => (
 	<div className={header}>
@@ -15,6 +16,7 @@ const Desktop = () => (
 		<Link className={link} to="/breeding">{BREEDING}</Link>
 		<Link className={link} to="/training">{TRAINING}</Link>
 		<Link className={link} to="/data">{DATA}</Link>
+		<Link className={link} to="/egg-groups">{EGG_GROUPS}</Link>
 	</div>
 );
 
