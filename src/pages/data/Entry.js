@@ -3,7 +3,7 @@ import { entry, title, imagebox } from './entry.scss';
 
 const Images = ({ images }) => (
 	<div className={imagebox}>
-		{images.map((image, i) => (<img key={i} alt="" src={image} />))}
+		{images.map((image) => (<img key={image} alt="" src={image} />))}
 	</div>
 );
 
