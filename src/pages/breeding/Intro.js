@@ -20,7 +20,7 @@ const Intro = () => (
 			<li>What <a href="#i-vs">IVs</a> are, and why they matter.</li>
 			<li>The freakish, gender-bending magic of <a href="#ditto">Ditto</a>.</li>
 			<li><a href="#shiny">Shininess</a>, and the factors which influence it.</li>
-			<li>Some long-winded <a href="#examples">examples</a>, if that helps illustrate things.</li>
+			<li>Some long-winded, needlessly contrived <a href="#examples">examples</a>, in the hope they help illustrate things.</li>
 		</ul>
 	</div>
 );

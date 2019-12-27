@@ -33,6 +33,9 @@ import ovalcharm from '@images/items/ovalcharm.png';
 import shinycharm from '@images/items/shinycharm.png';
 import dynamaxcandy from '@images/items/dynamaxcandy.png';
 import ditto from '@images/mon/ditto.png';
+import coalossal from '@images/mon/coalossal.png';
+import chandelure from '@images/mon/chandelure.png';
+import centiskorch from '@images/mon/centiskorch.png';
 import egg from '@images/mon/egg.png';
 
 const entries = {
@@ -67,6 +70,10 @@ const entries = {
 	EVs: {
 		description: 'Effort Values -- a number from 0 to 252 representing the amount of growth and training a pokémon has received in each of the six stats. For every 4EVs in a stat, a pokémon will gain 1 point at level 100. A pokémon can only have 510 EVs across all stats. Raised by defeating enemy pokémon, consuming nutrient items (such as Calcium), or going to training pokéjobs. Specific values not visible directly -- you\'ll need to track a pokémon\'s growth yourself.',
 		images: [hpup, protein, iron, calcium, zinc, carbos],
+	},
+	'Flame Body': {
+		description: 'An ability. In combat, pokémon who make contact with a Flame Body victim have a chance to suffer a burn. Out of combat, having a pokémon with Flame Body in your party cuts the number of steps required to hatch an egg in half. The Coalossal and Chandelure lines have Flame Body as a normal ability. The Centiskorch line has is as a Hidden Ability.',
+		images: [coalossal, chandelure, centiskorch],
 	},
 	'Hidden Ability': {
 		description: 'A different, hard-to-acquire ability for a pokémon species, which can open up new strategies for that species. Examples include Darmanitan\'s Zen Mode (which enables it to transform), Sylveon\'s Pixilate (which turns Normal moves into Fairy moves), or Hatterene\'s Magic Bounce (which reflects status moves back at the user). Pokémon can appear with their hidden abilities in 4 or 5 star raids. A mother has a 60% chance to pass her Hidden Ability to a child, which will otherwise have one of that species\' standard abilities.',

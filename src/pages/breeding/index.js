@@ -6,6 +6,7 @@ import Inheritance from './Inheritance';
 import IVs from './IVs';
 import Ditto from './Ditto';
 import Shiny from './Shiny';
+import Examples from './Examples';
 import { container } from './breeding.scss';
 
 const Breeding = () => (
@@ -17,6 +18,7 @@ const Breeding = () => (
 		<IVs />
 		<Ditto />
 		<Shiny />
+		<Examples />
 	</div>
 );
 
