@@ -1,7 +1,7 @@
 import React from 'react';
 import Anchor from '@shared/Anchor';
 import university from '@images/university.png';
-import { section } from './training.scss';
+import { section, hammerlocke, wordytable } from './training.scss';
 
 /* eslint-disable react/jsx-no-literals, max-len, react/jsx-one-expression-per-line, react/jsx-max-depth, max-lines-per-function */
 const Jobs = () => (
@@ -11,11 +11,11 @@ const Jobs = () => (
 		<p>
            The cheapest, lowest-effort, but (potentially) most time-consuming way to train EVs is to send your pokémon on specific jobs from the pokécenter PC. The jobs which are &quot;Always Recruiting&quot;, sponsored by Hammerlocke University raise a pokémon&apos;s EVs in lieu of its experience level.
 		</p>
-		<img alt="" src={university} />
+		<img alt="" className={hammerlocke} src={university} />
 		<p>
             Gains depend on the length of time pokémon are sent to the job, and can be further amplified if a pokémon suffers from <a href="/data#pokerus">pokérus</a>, or is holding the matching <a href="/data#power-items">power item</a>.
 		</p>
-		<table>
+		<table className={wordytable}>
 			<thead>
 				<tr>
 					<th>Duration (In-Game)</th>

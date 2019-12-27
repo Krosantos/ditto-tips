@@ -6,7 +6,7 @@ import qualotberry from '@images/items/qualotberry.png';
 import hondewberry from '@images/items/hondewberry.png';
 import grepaberry from '@images/items/grepaberry.png';
 import tamatoberry from '@images/items/tamatoberry.png';
-import { section } from './training.scss';
+import { section, itemcell } from './training.scss';
 
 /* eslint-disable react/jsx-no-literals, max-len, react/jsx-one-expression-per-line, react/jsx-max-depth, max-lines-per-function */
 const Reset = () => (
@@ -26,27 +26,51 @@ const Reset = () => (
 			<tbody>
 				<tr>
 					<td>HP</td>
-					<td><img alt="" src={pomegberry} />Pomeg Berry</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={pomegberry} />Pomeg Berry
+						</div>
+					</td>
 				</tr>
 				<tr>
 					<td>Attack</td>
-					<td><img alt="" src={kelpsyberry} />Kelpsy Berry</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={kelpsyberry} />Kelpsy Berry
+						</div>
+					</td>
 				</tr>
 				<tr>
 					<td>Defense</td>
-					<td><img alt="" src={qualotberry} />Qualot Berry</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={qualotberry} />Qualot Berry
+						</div>
+					</td>
 				</tr>
 				<tr>
 					<td>Special Attack</td>
-					<td><img alt="" src={hondewberry} />Hondew Berry</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={hondewberry} />Hondew Berry
+						</div>
+					</td>
 				</tr>
 				<tr>
 					<td>Special Defense</td>
-					<td><img alt="" src={grepaberry} />Grepa Berry</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={grepaberry} />Grepa Berry
+						</div>
+					</td>
 				</tr>
 				<tr>
 					<td>Speed</td>
-					<td><img alt="" src={tamatoberry} />Tamato Berry</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={tamatoberry} />Tamato Berry
+						</div>
+					</td>
 				</tr>
 			</tbody>
 		</table>

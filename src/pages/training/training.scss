@@ -10,6 +10,35 @@
   width: 100%;
 }
 
+.wordytable {
+  @media #{$mobile} {
+    font-size: 14px;
+  }
+}
+
+.hammerlocke {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pokemoncell {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.itemcell {
+  display: flex;
+  align-items: center;
+  > img {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+  }
+}
+
 .section {
   @media #{$desktop} {
     padding: 32px;
@@ -22,4 +51,42 @@
   background-color: $pink;
   border-radius: 4px;
   width: 80%;
+
+  table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  table,
+  th,
+  td {
+    border: 1px solid $smoke;
+    border-collapse: collapse;
+  }
+
+  th,
+  td {
+    background-color: $white;
+    text-align: center;
+
+    @media #{$desktop} {
+      padding: 8px;
+    }
+    @media #{$mobile} {
+      padding: 4px;
+    }
+  }
+
+  a {
+    color: $smoke;
+    text-decoration: underline;
+    transition: all 150ms ease-in-out;
+    &:hover {
+      color: $dark;
+    }
+  }
+
+  h2 {
+    margin-top: 0px;
+  }
 }

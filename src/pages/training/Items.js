@@ -12,7 +12,7 @@ import resistfeather from '@images/items/resistfeather.png';
 import geniusfeather from '@images/items/geniusfeather.png';
 import cleverfeather from '@images/items/cleverfeather.png';
 import swiftfeather from '@images/items/swiftfeather.png';
-import { section } from './training.scss';
+import { section, itemcell } from './training.scss';
 
 /* eslint-disable react/jsx-no-literals, max-len, react/jsx-one-expression-per-line, react/jsx-max-depth, max-lines-per-function */
 const Items = () => (
@@ -39,33 +39,81 @@ const Items = () => (
 			<tbody>
 				<tr>
 					<td>HP</td>
-					<td><img alt="" src={hpup} />HP UP</td>
-					<td><img alt="" src={healthfeather} />Health Feather</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={hpup} />HP UP
+						</div>
+					</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={healthfeather} />Health Feather
+						</div>
+					</td>
 				</tr>
 				<tr>
 					<td>Attack</td>
-					<td><img alt="" src={protein} />Protein</td>
-					<td><img alt="" src={musclefeather} />Muscle Feather</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={protein} />Protein
+						</div>
+					</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={musclefeather} />Muscle Feather
+						</div>
+					</td>
 				</tr>
 				<tr>
 					<td>Defense</td>
-					<td><img alt="" src={iron} />Iron</td>
-					<td><img alt="" src={resistfeather} />Resist Feather</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={iron} />Iron
+						</div>
+					</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={resistfeather} />Resist Feather
+						</div>
+					</td>
 				</tr>
 				<tr>
 					<td>Special Attack</td>
-					<td><img alt="" src={calcium} />Calcium</td>
-					<td><img alt="" src={geniusfeather} />Genius Feather</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={calcium} />Calcium
+						</div>
+					</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={geniusfeather} />Genius Feather
+						</div>
+					</td>
 				</tr>
 				<tr>
 					<td>Special Defense</td>
-					<td><img alt="" src={zinc} />Zinc</td>
-					<td><img alt="" src={cleverfeather} />Clever Feather</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={zinc} />Zinc
+						</div>
+					</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={cleverfeather} />Clever Feather
+						</div>
+					</td>
 				</tr>
 				<tr>
 					<td>Speed</td>
-					<td><img alt="" src={carbos} />Carbos</td>
-					<td><img alt="" src={swiftfeather} />Swift Feather</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={carbos} />Carbos
+						</div>
+					</td>
+					<td>
+						<div className={itemcell}>
+							<img alt="" src={swiftfeather} />Swift Feather
+						</div>
+					</td>
 				</tr>
 			</tbody>
 		</table>

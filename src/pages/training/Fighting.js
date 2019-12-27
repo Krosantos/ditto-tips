@@ -9,7 +9,7 @@ import snom from '@images/mon/snom.png';
 import gossifleur from '@images/mon/gossifleur.png';
 import arrokuda from '@images/mon/arrokuda.png';
 import mrmime from '@images/mon/mrmime_g.png';
-import { section } from './training.scss';
+import { section, pokemoncell } from './training.scss';
 
 /* eslint-disable react/jsx-no-literals, max-len, react/jsx-one-expression-per-line, react/jsx-max-depth, max-lines-per-function */
 const Fighting = () => (
@@ -37,55 +37,91 @@ const Fighting = () => (
 			<tbody>
 				<tr>
 					<td>HP</td>
-					<td><img alt="" src={skwovet} /> Skwovet</td>
+					<td>
+						<div className={pokemoncell}>
+							<img alt="" src={skwovet} /><br />Skwovet
+						</div>
+					</td>
 					<td>1</td>
 					<td>Route 1</td>
 				</tr>
 				<tr>
 					<td>Attack</td>
-					<td><img alt="" src={stufful} /> Stufful</td>
+					<td>
+						<div className={pokemoncell}>
+							<img alt="" src={stufful} /><br />Stufful
+						</div>
+					</td>
 					<td>1</td>
 					<td>Route 5</td>
 				</tr>
 				<tr>
 					<td>Attack</td>
-					<td><img alt="" src={perrserker} /> Perrserker</td>
+					<td>
+						<div className={pokemoncell}>
+							<img alt="" src={perrserker} /><br />Perrserker
+						</div>
+					</td>
 					<td>2</td>
 					<td>Route 9 -- Outer Spikemuth</td>
 				</tr>
 				<tr>
 					<td>Defense</td>
-					<td><img alt="" src={yamask} /> Yamask</td>
+					<td>
+						<div className={pokemoncell}>
+							<img alt="" src={yamask} /><br />Yamask
+						</div>
+					</td>
 					<td>1</td>
 					<td>Route 6</td>
 				</tr>
 				<tr>
 					<td>Defense</td>
-					<td><img alt="" src={weezing} /> Weezing</td>
+					<td>
+						<div className={pokemoncell}>
+							<img alt="" src={weezing} /><br />Weezing
+						</div>
+					</td>
 					<td>2</td>
 					<td>Slumbering Weald</td>
 				</tr>
 				<tr>
 					<td>Special Attack</td>
-					<td><img alt="" src={snom} /> Snom</td>
+					<td>
+						<div className={pokemoncell}>
+							<img alt="" src={snom} /><br />Snom
+						</div>
+					</td>
 					<td>1</td>
 					<td>Route 8 -- Steamdrift Way</td>
 				</tr>
 				<tr>
 					<td>Special Defense</td>
-					<td><img alt="" src={gossifleur} /> Gossifleur</td>
+					<td>
+						<div className={pokemoncell}>
+							<img alt="" src={gossifleur} /><br />Gossifleur
+						</div>
+					</td>
 					<td>1</td>
 					<td>Route 3</td>
 				</tr>
 				<tr>
 					<td>Speed</td>
-					<td><img alt="" src={arrokuda} /> Arrokuda</td>
+					<td>
+						<div className={pokemoncell}>
+							<img alt="" src={arrokuda} /><br />Arrokuda
+						</div>
+					</td>
 					<td>1</td>
 					<td>Route 2 -- Lake</td>
 				</tr>
 				<tr>
 					<td>Speed</td>
-					<td><img alt="" src={mrmime} /> Mr. Mime</td>
+					<td>
+						<div className={pokemoncell}>
+							<img alt="" src={mrmime} /><br />Mr. Mime
+						</div>
+					</td>
 					<td>2</td>
 					<td>Route 10</td>
 				</tr>
