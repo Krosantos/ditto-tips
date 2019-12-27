@@ -20,7 +20,7 @@ const Shiny = () => (
 			<span>Sableye, in typical, and shiny colors.</span>
 		</div>
 		<p>
-            By default, any pokémon, whether hatched, or encountered in the wild, has a 1 in 4096 of being shiny. For breeding purposes, two factors can increase this -- owning the <a href="/data#shiny-charm">Shiny Charm</a>, or breeding two pokémon from different linguistic regions (e.g., Korea and France). Linguistic region is represented by the 3-letter language code in a pokémon&apos;s summary, and is determined on the basis of the selected language when the game is started.
+            By default, any pokémon, whether hatched or encountered in the wild, has a 1 in 4096 of being shiny. For breeding purposes, two factors can increase this -- owning the <a href="/data#shiny-charm">Shiny Charm</a>, or breeding two pokémon from different linguistic regions (e.g., Korea and France). Linguistic region is represented by the 3-letter language code in a pokémon&apos;s summary, and is determined on the basis of the selected language when the game is started.
 		</p>
 		<table>
 			<thead>
