@@ -28,9 +28,10 @@ import poweranklet from '@images/items/poweranklet.png';
 import bottlecap from '@images/items/bottlecap.png';
 import goldcap from '@images/items/goldcap.png';
 import abilitycapsule from '@images/items/abilitycapsule.png';
-import pokerusmenu from '@images/pokerusmenu.png';
+import pokerusinfected from '@images/pokerusinfected.png';
 import ovalcharm from '@images/items/ovalcharm.png';
 import shinycharm from '@images/items/shinycharm.png';
+import dynamaxcandy from '@images/items/dynamaxcandy.png';
 import ditto from '@images/mon/ditto.png';
 import egg from '@images/mon/egg.png';
 
@@ -50,6 +51,10 @@ const entries = {
 	Ditto: {
 		description: 'The only species of pokémon capable of breeding with any species able to reproduce. Any pokémon left in the nursery with Ditto is considered female for breeding purposes, including pokémon which do not usually have a gender (and which are hence unable to reproduce otherwise). Can be caught in the Lake of Outrage in the Wild Area, or in Max Raids.',
 		images: [ditto],
+	},
+	'Dynamax Candy': {
+		description: 'An item, received from beating Max Raids, which raises your pokémon\'s Dynamax Level by 1. A pokémon\'s Dynamax Level maxes out at 10, at which point it gains a whopping 2x HP multiplier when it Dynamaxes or Gigantimaxes.',
+		images: [dynamaxcandy],
 	},
 	'Egg Group': {
 		description: 'A group of pokémon capable of breeding amongst themselves. A pokémon can belong to up to two egg groups. Pokémon from non-overlapping egg groups cannot produce offspring.',
@@ -84,7 +89,7 @@ const entries = {
 	},
 	Pokérus: {
 		description: 'A beneficial, infectious disease. Infected pokémon gain double EVs from all activities. The infection has a chance to be passed to adjacent party pokémon after each battle (even if you run). After a period, the infection is "cured". A cured pokémon is no longer contagious, but retains the benefits of infection. The cure progress is paused for pokémon in boxes.',
-		images: [pokerusmenu],
+		images: [pokerusinfected],
 	},
 	'Power Items': {
 		description: 'A series of held items, each corresponding to one of the six stats, acquired for 10BP each from the BP saleswoman in the middle Pokécenter in Hammerlocke. When held, a pokémon will gain 8 additional EVs of the matching stat per battle. A parent holding a power item will pass their IV for the matching stat to all offspring.',

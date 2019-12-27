@@ -2,7 +2,7 @@ import React, { useMemo } from 'react';
 import { kebabCase } from 'lodash';
 import entries from './entries';
 import Entry from './Entry';
-import { container, linkbox } from './entry.scss';
+import { container, entrylist, linkbox } from './entry.scss';
 
 const SEPARATOR = <>&nbsp;&bull;&nbsp;</>; // eslint-disable-line react/jsx-no-literals
 
@@ -35,7 +35,9 @@ const Data = () => {
 	return (
 		<div className={container}>
 			<Links />
-			{rows.map((entry) => <Entry key={entry.name} {...entry} />)}
+			<div className={entrylist}>
+				{rows.map((entry) => <Entry key={entry.name} {...entry} />)}
+			</div>
 		</div>
 	);
 };
