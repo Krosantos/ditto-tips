@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server --mode development",
-    "lint": "eslint .",
+    "lint": "eslint ./src",
     "compile": "rm -rf dist && webpack",
     "serve": "node server"
   },

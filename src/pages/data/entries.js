@@ -76,12 +76,15 @@ const entries = {
 		images: [laxincense, fullincense, oddincense, rockincense, roseincense, waveincense],
 	},
 	IVs: {
-		description: 'Individual Values -- a number from 0 to 31 representing one of a pokémon\'s six stats, HP, Attack, Defense, Special Attack, Special Defense, and Speed. Viewable (roughly) in the box via the IV Judge after clearing 10 battles in the Battle Tower. At level 100, you can spend bottlecaps to Hyper Train a pokémon, which will cause the game to treat their IVs as 31 for combat (but not breeding) purposes.',
+		description: 'Individual Values -- a number from 0 to 31 representing one of a pokémon\'s six stats, HP, Attack, Defense, Special Attack, Special Defense, and Speed. Viewable (roughly) in the box via the IV Judge after clearing 10 battles in the Battle Tower. At level 100, you can spend bottlecaps to Hyper Train a pokémon, which will cause the game to treat their IVs as 31 for combat (but not breeding) purposes. Pokémon caught in Max Raids frequently have multiple perfect (31) IV stats.',
 		images: [bottlecap, goldcap],
 	},
 	Nature: {
 		description: 'One of 26 different values, a pokémon\'s nature usually raises one of its non-HP stats by 10%, and reduces another by 10%. (Some natures are neutral, and affect no stats). A pokémon\'s nature is randomly determined, but a parent holding an Everstone will pass their nature to any offspring. Mints, acquired for 50BP each from the Battle Tower, can be used to change a pokémon\'s nature for combat, but not breeding purposes.',
 		images: [mintAttack, mintDefense, mintSpatk, mintSpdef, mintSpeed, mintNeutral],
+	},
+	Nursery: {
+		description: 'Two buildings, one on Route 5, one in the Wild Area, where pokémon can be left to breed. Compatible pokémon left in the nursery will produce eggs, which hatch into pokémon.',
 	},
 	'Oval Charm': {
 		description: 'A key item. When possessed, compatible pokémon in the nursery are twice as likely to produce an egg. You can acquire it from the Game Director (who looks like a policeman) in the Hotel Ionia in Circhester, if you defeat his team after becoming Champion.',

@@ -17,7 +17,7 @@ const EVs = () => (
             Choosing which stats to invest EVs into is an important part of training a strong pokémon. Consider the hypothetical where you&apos;re training a bulky defensive pokémon like Corsola. If you expect that you won&apos;t be outspeeding most opponents, and that you&apos;ll be doing most of your damage through effects like burn and whirlpool, it would be wasteful to spent EVs in Speed or Attack -- you probably want to maximize the amount of EVs you invest into HP, Defense, or Special Defense.
 		</p>
 		<p>
-            You can gain EVs a number of ways -- by <a href="#items">consuming items</a>, <a href="#jobs">sending your pokémon on specific jobs</a>, or the old-fashioned way, by <a href="#fighting">fighting wild pokémon</a>. If you've accidentally overtrained a stat, you can reclaim some of the EVs using specific <a href="#reset">berries</a>.
+            You can gain EVs a number of ways -- by <a href="#items">consuming items</a>, <a href="#jobs">sending your pokémon on specific jobs</a>, or the old-fashioned way, by <a href="#fighting">fighting wild pokémon</a>. If you&apos;ve accidentally overtrained a stat, you can reclaim some of the EVs using specific <a href="#reset">berries</a>.
 		</p>
 	</div>
 );
