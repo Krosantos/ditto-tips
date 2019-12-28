@@ -5,6 +5,7 @@ import Calculator from '@pages/calculator';
 import Breeding from '@pages/breeding';
 import Training from '@pages/training';
 import Data from '@pages/data';
+import Groups from '@pages/groups';
 
 const Routes = () => (
 	<Switch>
@@ -22,6 +23,9 @@ const Routes = () => (
 		</Route>
 		<Route path="/data">
 			<Data />
+		</Route>
+		<Route path="/egg-groups">
+			<Groups />
 		</Route>
 	</Switch>
 );

@@ -1,0 +1,5204 @@
+[
+    {
+        "name": "Grookey",
+        "eggGroups": [
+            "Field",
+            "Grass"
+        ],
+        "eggMoves": [
+            "Growth",
+            "Hammer Arm",
+            "Fake Out",
+            "Strength",
+            "Nature Power",
+            "Worry Seed",
+            "Leech Seed"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 1,
+        "image": "grookey"
+    },
+    {
+        "name": "Thwackey",
+        "eggGroups": [
+            "Field",
+            "Grass"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 2,
+        "image": "thwackey"
+    },
+    {
+        "name": "Rillaboom",
+        "eggGroups": [
+            "Field",
+            "Grass"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 3,
+        "image": "rillaboom"
+    },
+    {
+        "name": "Scorbunny",
+        "eggGroups": [
+            "Field",
+            "HumanLike"
+        ],
+        "eggMoves": [
+            "High Jump Kick",
+            "Sand Attack",
+            "Sucker Punch",
+            "Super Fang"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 4,
+        "image": "scorbunny"
+    },
+    {
+        "name": "Raboot",
+        "eggGroups": [
+            "Field",
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 5,
+        "image": "raboot"
+    },
+    {
+        "name": "Cinderace",
+        "eggGroups": [
+            "Field",
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 6,
+        "image": "cinderace"
+    },
+    {
+        "name": "Sobble",
+        "eggGroups": [
+            "Water1",
+            "Field"
+        ],
+        "eggMoves": [
+            "Aqua Jet",
+            "Double Team",
+            "Aqua Ring",
+            "Mist",
+            "Haze",
+            "Ice Shard",
+            "Fell Stinger"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 7,
+        "image": "sobble"
+    },
+    {
+        "name": "Drizzile",
+        "eggGroups": [
+            "Water1",
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 8,
+        "image": "drizzile"
+    },
+    {
+        "name": "Inteleon",
+        "eggGroups": [
+            "Water1",
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 9,
+        "image": "inteleon"
+    },
+    {
+        "name": "Blipbug",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [
+            "Infestation",
+            "Supersonic",
+            "Sticky Web",
+            "Recover"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 10,
+        "image": "blipbug"
+    },
+    {
+        "name": "Dottler",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 11,
+        "image": "dottler"
+    },
+    {
+        "name": "Orbeetle",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 12,
+        "image": "orbeetle"
+    },
+    {
+        "name": "Caterpie",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 13,
+        "image": "caterpie"
+    },
+    {
+        "name": "Metapod",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 14,
+        "image": "metapod"
+    },
+    {
+        "name": "Butterfree",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 15,
+        "image": "butterfree"
+    },
+    {
+        "name": "Grubbin",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [
+            "Harden",
+            "Discharge"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 16,
+        "image": "grubbin"
+    },
+    {
+        "name": "Charjabug",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 17,
+        "image": "charjabug"
+    },
+    {
+        "name": "Vikavolt",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 18,
+        "image": "vikavolt"
+    },
+    {
+        "name": "Hoothoot",
+        "eggGroups": [
+            "Flying"
+        ],
+        "eggMoves": [
+            "Supersonic",
+            "Wing Attack",
+            "Whirlwind",
+            "Feather Dance",
+            "Night Shade",
+            "Defog"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 19,
+        "image": "hoothoot"
+    },
+    {
+        "name": "Noctowl",
+        "eggGroups": [
+            "Flying"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 20,
+        "image": "noctowl"
+    },
+    {
+        "name": "Rookidee",
+        "eggGroups": [
+            "Flying"
+        ],
+        "eggMoves": [
+            "Sky Attack",
+            "Sand Attack",
+            "Tailwind",
+            "Defog",
+            "Rock Smash",
+            "Spite",
+            "Roost"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 21,
+        "image": "rookidee"
+    },
+    {
+        "name": "Corvisquire",
+        "eggGroups": [
+            "Flying"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 22,
+        "image": "corvisquire"
+    },
+    {
+        "name": "Corviknight",
+        "eggGroups": [
+            "Flying"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 23,
+        "image": "corviknight"
+    },
+    {
+        "name": "Skwovet",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Rollout",
+            "Defense Curl",
+            "Last Resort",
+            "Belly Drum"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 24,
+        "image": "skwovet"
+    },
+    {
+        "name": "Greedent",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 25,
+        "image": "greedent"
+    },
+    {
+        "name": "Pidove",
+        "eggGroups": [
+            "Flying"
+        ],
+        "eggMoves": [
+            "Hypnosis",
+            "Wish",
+            "Morning Sun",
+            "Night Slash",
+            "Defog"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 26,
+        "image": "pidove"
+    },
+    {
+        "name": "Tranquill",
+        "eggGroups": [
+            "Flying"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 27,
+        "image": "tranquill"
+    },
+    {
+        "name": "Unfezant",
+        "eggGroups": [
+            "Flying"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 28,
+        "image": "unfezant"
+    },
+    {
+        "name": "Nickit",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Quick Guard",
+            "Knock Off",
+            "Howl",
+            "Torment"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 29,
+        "image": "nickit"
+    },
+    {
+        "name": "Thievul",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 30,
+        "image": "thievul"
+    },
+    {
+        "name": "Zigzagoon",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Tickle",
+            "Simple Beam",
+            "Extreme Speed"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 31,
+        "image": "zigzagoon"
+    },
+    {
+        "name": "Linoone",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 32,
+        "image": "linoone"
+    },
+    {
+        "name": "Obstagoon",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 33,
+        "image": "obstagoon"
+    },
+    {
+        "name": "Wooloo",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Stomp",
+            "Swagger",
+            "Counter"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 34,
+        "image": "wooloo"
+    },
+    {
+        "name": "Dubwool",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 35,
+        "image": "dubwool"
+    },
+    {
+        "name": "Lotad",
+        "eggGroups": [
+            "Water1",
+            "Grass"
+        ],
+        "eggMoves": [
+            "Synthesis",
+            "Razor Leaf",
+            "Sweet Scent",
+            "Leech Seed",
+            "Tickle",
+            "Counter",
+            "Teeter Dance"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 36,
+        "image": "lotad"
+    },
+    {
+        "name": "Lombre",
+        "eggGroups": [
+            "Water1",
+            "Grass"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 37,
+        "image": "lombre"
+    },
+    {
+        "name": "Ludicolo",
+        "eggGroups": [
+            "Water1",
+            "Grass"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 38,
+        "image": "ludicolo"
+    },
+    {
+        "name": "Seedot",
+        "eggGroups": [
+            "Field",
+            "Grass"
+        ],
+        "eggMoves": [
+            "Leech Seed",
+            "Quick Attack",
+            "Take Down",
+            "Worry Seed",
+            "Defog",
+            "Night Slash"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 39,
+        "image": "seedot"
+    },
+    {
+        "name": "Nuzleaf",
+        "eggGroups": [
+            "Field",
+            "Grass"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 40,
+        "image": "nuzleaf"
+    },
+    {
+        "name": "Shiftry",
+        "eggGroups": [
+            "Field",
+            "Grass"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 41,
+        "image": "shiftry"
+    },
+    {
+        "name": "Chewtle",
+        "eggGroups": [
+            "Monster",
+            "Water1"
+        ],
+        "eggMoves": [
+            "Skull Bash",
+            "Gastro Acid",
+            "Dragon Tail"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 42,
+        "image": "chewtle"
+    },
+    {
+        "name": "Drednaw",
+        "eggGroups": [
+            "Monster",
+            "Water1"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 43,
+        "image": "drednaw"
+    },
+    {
+        "name": "Purrloin",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Yawn",
+            "Covet",
+            "Copycat",
+            "Slash",
+            "Double Team",
+            "Quick Attack"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 44,
+        "image": "purrloin"
+    },
+    {
+        "name": "Liepard",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 45,
+        "image": "liepard"
+    },
+    {
+        "name": "Yamper",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Double-Edge",
+            "Sand Attack",
+            "Flame Charge",
+            "Discharge",
+            "Howl"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 46,
+        "image": "yamper"
+    },
+    {
+        "name": "Boltund",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 47,
+        "image": "boltund"
+    },
+    {
+        "name": "Bunnelby",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Defense Curl",
+            "Rollout"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 48,
+        "image": "bunnelby"
+    },
+    {
+        "name": "Diggersby",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 49,
+        "image": "diggersby"
+    },
+    {
+        "name": "Minccino",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Tail Whip",
+            "Aqua Tail",
+            "Knock Off",
+            "Flail"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 50,
+        "image": "minccino"
+    },
+    {
+        "name": "Cinccino",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 51,
+        "image": "cinccino"
+    },
+    {
+        "name": "Bounsweet",
+        "eggGroups": [
+            "Grass"
+        ],
+        "eggMoves": [
+            "Synthesis",
+            "Acupressure",
+            "Endeavor"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 52,
+        "image": "bounsweet"
+    },
+    {
+        "name": "Steenee",
+        "eggGroups": [
+            "Grass"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 53,
+        "image": "steenee"
+    },
+    {
+        "name": "Tsareena",
+        "eggGroups": [
+            "Grass"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 54,
+        "image": "tsareena"
+    },
+    {
+        "name": "Oddish",
+        "eggGroups": [
+            "Grass"
+        ],
+        "eggMoves": [
+            "Razor Leaf",
+            "Flail",
+            "Synthesis",
+            "Ingrain",
+            "Tickle",
+            "Teeter Dance",
+            "Nature Power",
+            "After You",
+            "Strength Sap",
+            "Leech Seed"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 55,
+        "image": "oddish"
+    },
+    {
+        "name": "Gloom",
+        "eggGroups": [
+            "Grass"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 56,
+        "image": "gloom"
+    },
+    {
+        "name": "Vileplume",
+        "eggGroups": [
+            "Grass"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 57,
+        "image": "vileplume"
+    },
+    {
+        "name": "Bellossom",
+        "eggGroups": [
+            "Grass"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 58,
+        "image": "bellossom"
+    },
+    {
+        "name": "Budew",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [
+            "Synthesis",
+            "Cotton Spore",
+            "Sleep Powder",
+            "Razor Leaf",
+            "Extrasensory",
+            "Life Dew"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 59,
+        "image": "budew"
+    },
+    {
+        "name": "Roselia",
+        "eggGroups": [
+            "Fairy",
+            "Grass"
+        ],
+        "eggMoves": [
+            "Cotton Spore",
+            "Sleep Powder",
+            "Razor Leaf",
+            "Extrasensory",
+            "Life Dew"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 60,
+        "image": "roselia"
+    },
+    {
+        "name": "Roserade",
+        "eggGroups": [
+            "Fairy",
+            "Grass"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 61,
+        "image": "roserade"
+    },
+    {
+        "name": "Wingull",
+        "eggGroups": [
+            "Water1",
+            "Flying"
+        ],
+        "eggMoves": [
+            "Twister",
+            "Gust",
+            "Aqua Ring",
+            "Knock Off",
+            "Soak",
+            "Wide Guard",
+            "Air Cutter",
+            "Aerial Ace"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 62,
+        "image": "wingull"
+    },
+    {
+        "name": "Pelipper",
+        "eggGroups": [
+            "Water1",
+            "Flying"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 63,
+        "image": "pelipper"
+    },
+    {
+        "name": "Joltik",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [
+            "Poison Sting",
+            "Lunge",
+            "Struggle Bug",
+            "Double Team",
+            "Infestation"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 64,
+        "image": "joltik"
+    },
+    {
+        "name": "Galvantula",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 65,
+        "image": "galvantula"
+    },
+    {
+        "name": "Electrike",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Headbutt",
+            "Curse",
+            "Switcheroo",
+            "Spark"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 66,
+        "image": "electrike"
+    },
+    {
+        "name": "Manectric",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 67,
+        "image": "manectric"
+    },
+    {
+        "name": "Vulpix",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Hypnosis",
+            "Flail",
+            "Howl",
+            "Memento",
+            "Baby-Doll Eyes",
+            "Roar",
+            "Flame Charge"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 68,
+        "image": "vulpix"
+    },
+    {
+        "name": "Ninetales",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 69,
+        "image": "ninetales"
+    },
+    {
+        "name": "Growlithe",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Thrash",
+            "Double-Edge",
+            "Morning Sun",
+            "Covet",
+            "Double Kick"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 70,
+        "image": "growlithe"
+    },
+    {
+        "name": "Arcanine",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 71,
+        "image": "arcanine"
+    },
+    {
+        "name": "Vanillite",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [
+            "Autotomize",
+            "Magnet Rise",
+            "Ice Shard",
+            "Explosion",
+            "Aurora Veil",
+            "Icicle Crash"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 72,
+        "image": "vanillite"
+    },
+    {
+        "name": "Vanillish",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 73,
+        "image": "vanillish"
+    },
+    {
+        "name": "Vanilluxe",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 74,
+        "image": "vanilluxe"
+    },
+    {
+        "name": "Swinub",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Bite",
+            "Ancient Power",
+            "Double-Edge",
+            "Fissure",
+            "Curse",
+            "Icicle Crash",
+            "Freeze-Dry"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 75,
+        "image": "swinub"
+    },
+    {
+        "name": "Piloswine",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 76,
+        "image": "piloswine"
+    },
+    {
+        "name": "Mamoswine",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 77,
+        "image": "mamoswine"
+    },
+    {
+        "name": "Delibird",
+        "eggGroups": [
+            "Water1",
+            "Field"
+        ],
+        "eggMoves": [
+            "Aurora Beam",
+            "Quick Attack",
+            "Splash",
+            "Rapid Spin",
+            "Ice Shard",
+            "Fake Out",
+            "Freeze-Dry",
+            "Destiny Bond",
+            "Counter",
+            "Aurora Veil",
+            "Memento"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 78,
+        "image": "delibird"
+    },
+    {
+        "name": "Snorunt",
+        "eggGroups": [
+            "Fairy",
+            "Mineral"
+        ],
+        "eggMoves": [
+            "Block",
+            "Disable",
+            "Switcheroo",
+            "Rollout",
+            "Icicle Crash"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 79,
+        "image": "snorunt"
+    },
+    {
+        "name": "Glalie",
+        "eggGroups": [
+            "Fairy",
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 80,
+        "image": "glalie"
+    },
+    {
+        "name": "Froslass",
+        "eggGroups": [
+            "Fairy",
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 81,
+        "image": "froslass"
+    },
+    {
+        "name": "Baltoy",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 82,
+        "image": "baltoy"
+    },
+    {
+        "name": "Claydol",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 83,
+        "image": "claydol"
+    },
+    {
+        "name": "Mudbray",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Double-Edge",
+            "Fissure",
+            "Smack Down",
+            "Roar"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 84,
+        "image": "mudbray"
+    },
+    {
+        "name": "Mudsdale",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 85,
+        "image": "mudsdale"
+    },
+    {
+        "name": "Dwebble",
+        "eggGroups": [
+            "Bug",
+            "Mineral"
+        ],
+        "eggMoves": [
+            "Night Slash",
+            "Counter",
+            "Curse",
+            "Block",
+            "Wide Guard",
+            "Knock Off"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 86,
+        "image": "dwebble"
+    },
+    {
+        "name": "Crustle",
+        "eggGroups": [
+            "Bug",
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 87,
+        "image": "crustle"
+    },
+    {
+        "name": "Golett",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 88,
+        "image": "golett"
+    },
+    {
+        "name": "Golurk",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 89,
+        "image": "golurk"
+    },
+    {
+        "name": "Munna",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Curse",
+            "Healing Wish"
+        ],
+        "hatchCycles": 10,
+        "dexNumber": 90,
+        "image": "munna"
+    },
+    {
+        "name": "Musharna",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 10,
+        "dexNumber": 91,
+        "image": "musharna"
+    },
+    {
+        "name": "Natu",
+        "eggGroups": [
+            "Flying"
+        ],
+        "eggMoves": [
+            "Drill Peck",
+            "Quick Attack",
+            "Feather Dance",
+            "Sucker Punch",
+            "Roost",
+            "Simple Beam"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 92,
+        "image": "natu"
+    },
+    {
+        "name": "Xatu",
+        "eggGroups": [
+            "Flying"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 93,
+        "image": "xatu"
+    },
+    {
+        "name": "Stufful",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Force Palm",
+            "Rollout",
+            "Defense Curl",
+            "Stomp"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 94,
+        "image": "stufful"
+    },
+    {
+        "name": "Bewear",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 95,
+        "image": "bewear"
+    },
+    {
+        "name": "Snover",
+        "eggGroups": [
+            "Monster",
+            "Grass"
+        ],
+        "eggMoves": [
+            "Leech Seed",
+            "Growth",
+            "Double-Edge",
+            "Stomp",
+            "Skull Bash"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 96,
+        "image": "snover"
+    },
+    {
+        "name": "Abomasnow",
+        "eggGroups": [
+            "Monster",
+            "Grass"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 97,
+        "image": "abomasnow"
+    },
+    {
+        "name": "Krabby",
+        "eggGroups": [
+            "Water3"
+        ],
+        "eggMoves": [
+            "Knock Off",
+            "Ancient Power",
+            "Hammer Arm",
+            "Slash",
+            "Night Slash"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 98,
+        "image": "krabby"
+    },
+    {
+        "name": "Kingler",
+        "eggGroups": [
+            "Water3"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 99,
+        "image": "kingler"
+    },
+    {
+        "name": "Wooper",
+        "eggGroups": [
+            "Water1",
+            "Field"
+        ],
+        "eggMoves": [
+            "Ancient Power",
+            "Curse",
+            "Stockpile",
+            "Swallow",
+            "Spit Up",
+            "Counter",
+            "Double Kick",
+            "Recover",
+            "After You",
+            "Acid Spray",
+            "Power-Up Punch"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 100,
+        "image": "wooper"
+    },
+    {
+        "name": "Quagsire",
+        "eggGroups": [
+            "Water1",
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 101,
+        "image": "quagsire"
+    },
+    {
+        "name": "Corphish",
+        "eggGroups": [
+            "Water1",
+            "Water3"
+        ],
+        "eggMoves": [
+            "Ancient Power",
+            "Metal Claw",
+            "Double-Edge",
+            "Aqua Jet",
+            "Switcheroo",
+            "Slash"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 102,
+        "image": "corphish"
+    },
+    {
+        "name": "Crawdaunt",
+        "eggGroups": [
+            "Water1",
+            "Water3"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 103,
+        "image": "crawdaunt"
+    },
+    {
+        "name": "Nincada",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [
+            "Gust",
+            "Night Slash",
+            "Bug Bite",
+            "Final Gambit",
+            "Flail"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 104,
+        "image": "nincada"
+    },
+    {
+        "name": "Ninjask",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 105,
+        "image": "ninjask"
+    },
+    {
+        "name": "Shedinja",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 106,
+        "image": "shedinja"
+    },
+    {
+        "name": "Tyrogue",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [
+            "Rapid Spin",
+            "High Jump Kick",
+            "Mach Punch",
+            "Mind Reader",
+            "Counter",
+            "Vacuum Wave",
+            "Bullet Punch",
+            "Feint"
+        ],
+        "hatchCycles": 25,
+        "dexNumber": 107,
+        "image": "tyrogue"
+    },
+    {
+        "name": "Hitmonlee",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 108,
+        "image": "hitmonlee"
+    },
+    {
+        "name": "Hitmonchan",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 109,
+        "image": "hitmonchan"
+    },
+    {
+        "name": "Hitmontop",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 110,
+        "image": "hitmontop"
+    },
+    {
+        "name": "Pancham",
+        "eggGroups": [
+            "Field",
+            "HumanLike"
+        ],
+        "eggMoves": [
+            "Quash",
+            "Quick Guard",
+            "Storm Throw",
+            "Power Trip",
+            "Seismic Toss"
+        ],
+        "hatchCycles": 25,
+        "dexNumber": 111,
+        "image": "pancham"
+    },
+    {
+        "name": "Pangoro",
+        "eggGroups": [
+            "Field",
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 112,
+        "image": "pangoro"
+    },
+    {
+        "name": "Klink",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 113,
+        "image": "klink"
+    },
+    {
+        "name": "Klang",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 114,
+        "image": "klang"
+    },
+    {
+        "name": "Klinklang",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 115,
+        "image": "klinklang"
+    },
+    {
+        "name": "Combee",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 116,
+        "image": "combee"
+    },
+    {
+        "name": "Vespiquen",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 117,
+        "image": "vespiquen"
+    },
+    {
+        "name": "Bronzor",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 118,
+        "image": "bronzor"
+    },
+    {
+        "name": "Bronzong",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 119,
+        "image": "bronzong"
+    },
+    {
+        "name": "Ralts",
+        "eggGroups": [
+            "HumanLike",
+            "Amorphous"
+        ],
+        "eggMoves": [
+            "Disable",
+            "Mean Look",
+            "Memento",
+            "Destiny Bond",
+            "Grudge",
+            "Shadow Sneak",
+            "Confuse Ray",
+            "Knock Off"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 120,
+        "image": "ralts"
+    },
+    {
+        "name": "Kirlia",
+        "eggGroups": [
+            "HumanLike",
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 121,
+        "image": "kirlia"
+    },
+    {
+        "name": "Gardevoir",
+        "eggGroups": [
+            "HumanLike",
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 122,
+        "image": "gardevoir"
+    },
+    {
+        "name": "Gallade",
+        "eggGroups": [
+            "HumanLike",
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 123,
+        "image": "gallade"
+    },
+    {
+        "name": "Drifloon",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [
+            "Memento",
+            "Disable",
+            "Haze",
+            "Hypnosis",
+            "Clear Smog",
+            "Defog"
+        ],
+        "hatchCycles": 30,
+        "dexNumber": 124,
+        "image": "drifloon"
+    },
+    {
+        "name": "Drifblim",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 30,
+        "dexNumber": 125,
+        "image": "drifblim"
+    },
+    {
+        "name": "Gossifleur",
+        "eggGroups": [
+            "Grass"
+        ],
+        "eggMoves": [
+            "Growth",
+            "Leech Seed",
+            "Worry Seed",
+            "Poison Powder",
+            "Stun Spore",
+            "Sleep Powder"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 126,
+        "image": "gossifleur"
+    },
+    {
+        "name": "Eldegoss",
+        "eggGroups": [
+            "Grass"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 127,
+        "image": "eldegoss"
+    },
+    {
+        "name": "Cherubi",
+        "eggGroups": [
+            "Fairy",
+            "Grass"
+        ],
+        "eggMoves": [
+            "Razor Leaf",
+            "Sweet Scent",
+            "Tickle",
+            "Nature Power",
+            "Aromatherapy",
+            "Heal Pulse",
+            "Healing Wish",
+            "Defense Curl",
+            "Flower Shield",
+            "Rollout"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 128,
+        "image": "cherubi"
+    },
+    {
+        "name": "Cherrim",
+        "eggGroups": [
+            "Fairy",
+            "Grass"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 129,
+        "image": "cherrim"
+    },
+    {
+        "name": "Stunky",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Leer",
+            "Smog",
+            "Double-Edge",
+            "Astonish",
+            "Haze",
+            "Slash"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 130,
+        "image": "stunky"
+    },
+    {
+        "name": "Skuntank",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 131,
+        "image": "skuntank"
+    },
+    {
+        "name": "Tympole",
+        "eggGroups": [
+            "Water1"
+        ],
+        "eggMoves": [
+            "Water Pulse",
+            "Mist",
+            "Toxic",
+            "Mud-Slap"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 132,
+        "image": "tympole"
+    },
+    {
+        "name": "Palpitoad",
+        "eggGroups": [
+            "Water1"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 133,
+        "image": "palpitoad"
+    },
+    {
+        "name": "Seismitoad",
+        "eggGroups": [
+            "Water1"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 134,
+        "image": "seismitoad"
+    },
+    {
+        "name": "Duskull",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [
+            "Pain Split",
+            "Grudge",
+            "Memento",
+            "Haze"
+        ],
+        "hatchCycles": 25,
+        "dexNumber": 135,
+        "image": "duskull"
+    },
+    {
+        "name": "Dusclops",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 136,
+        "image": "dusclops"
+    },
+    {
+        "name": "Dusknoir",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 137,
+        "image": "dusknoir"
+    },
+    {
+        "name": "Machop",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [
+            "Counter",
+            "Bullet Punch",
+            "Tickle",
+            "Quick Guard",
+            "Submission"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 138,
+        "image": "machop"
+    },
+    {
+        "name": "Machoke",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 139,
+        "image": "machoke"
+    },
+    {
+        "name": "Machamp",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 140,
+        "image": "machamp"
+    },
+    {
+        "name": "Gastly",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [
+            "Perish Song",
+            "Haze",
+            "Astonish",
+            "Grudge",
+            "Disable",
+            "Clear Smog",
+            "Smog",
+            "Reflect Type",
+            "Toxic"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 141,
+        "image": "gastly"
+    },
+    {
+        "name": "Haunter",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 142,
+        "image": "haunter"
+    },
+    {
+        "name": "Gengar",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 143,
+        "image": "gengar"
+    },
+    {
+        "name": "Magikarp",
+        "eggGroups": [
+            "Water2",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 5,
+        "dexNumber": 144,
+        "image": "magikarp"
+    },
+    {
+        "name": "Gyarados",
+        "eggGroups": [
+            "Water2",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 5,
+        "dexNumber": 145,
+        "image": "gyarados"
+    },
+    {
+        "name": "Goldeen",
+        "eggGroups": [
+            "Water2"
+        ],
+        "eggMoves": [
+            "Psybeam",
+            "Haze",
+            "Aqua Tail",
+            "Acupressure",
+            "Mud-Slap"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 146,
+        "image": "goldeen"
+    },
+    {
+        "name": "Seaking",
+        "eggGroups": [
+            "Water2"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 147,
+        "image": "seaking"
+    },
+    {
+        "name": "Remoraid",
+        "eggGroups": [
+            "Water1",
+            "Water2"
+        ],
+        "eggMoves": [
+            "Octazooka",
+            "Supersonic",
+            "Haze",
+            "Flail",
+            "Water Spout",
+            "Acid Spray"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 148,
+        "image": "remoraid"
+    },
+    {
+        "name": "Octillery",
+        "eggGroups": [
+            "Water1",
+            "Water2"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 149,
+        "image": "octillery"
+    },
+    {
+        "name": "Shellder",
+        "eggGroups": [
+            "Water3"
+        ],
+        "eggMoves": [
+            "Bubble Beam",
+            "Water Pulse",
+            "Aqua Ring",
+            "Life Dew"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 150,
+        "image": "shellder"
+    },
+    {
+        "name": "Cloyster",
+        "eggGroups": [
+            "Water3"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 151,
+        "image": "cloyster"
+    },
+    {
+        "name": "Feebas",
+        "eggGroups": [
+            "Water1",
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Mirror Coat",
+            "Dragon Breath",
+            "Hypnosis",
+            "Confuse Ray",
+            "Mist",
+            "Haze",
+            "Tickle"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 152,
+        "image": "feebas"
+    },
+    {
+        "name": "Milotic",
+        "eggGroups": [
+            "Water1",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 153,
+        "image": "milotic"
+    },
+    {
+        "name": "Basculin",
+        "eggGroups": [
+            "Water2"
+        ],
+        "eggMoves": [
+            "Bubble Beam",
+            "Endeavor"
+        ],
+        "hatchCycles": 40,
+        "dexNumber": 154,
+        "image": "basculin_r",
+        "forms": [
+            {
+                "name": "Red-Striped",
+                "image": "basculin_r"
+            },
+            {
+                "name": "Blue-Striped",
+                "image": "basculin_b"
+            }
+        ]
+    },
+    {
+        "name": "Wishiwashi",
+        "eggGroups": [
+            "Water2"
+        ],
+        "eggMoves": [
+            "Mist",
+            "Water Pulse",
+            "Take Down"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 155,
+        "image": "wishiwashi"
+    },
+    {
+        "name": "Pyukumuku",
+        "eggGroups": [
+            "Water1"
+        ],
+        "eggMoves": [
+            "Tickle",
+            "Spite",
+            "Mirror Coat",
+            "Swagger"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 156,
+        "image": "pyukumuku"
+    },
+    {
+        "name": "Trubbish",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [
+            "Haze",
+            "Curse",
+            "Sand Attack",
+            "Autotomize",
+            "Rollout"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 157,
+        "image": "trubbish"
+    },
+    {
+        "name": "Garbodor",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 158,
+        "image": "garbodor"
+    },
+    {
+        "name": "Sizzlipede",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [
+            "Knock Off",
+            "Struggle Bug",
+            "Rollout",
+            "Defense Curl"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 159,
+        "image": "sizzlipede"
+    },
+    {
+        "name": "Centiskorch",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 160,
+        "image": "centiskorch"
+    },
+    {
+        "name": "Rolycoly",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [
+            "Explosion",
+            "Mud-Slap",
+            "Block"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 161,
+        "image": "rolycoly"
+    },
+    {
+        "name": "Carkol",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 162,
+        "image": "carkol"
+    },
+    {
+        "name": "Coalossal",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 163,
+        "image": "coalossal"
+    },
+    {
+        "name": "Diglett",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Ancient Power",
+            "Headbutt",
+            "Final Gambit",
+            "Memento",
+            "Hone Claws"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 164,
+        "image": "diglett"
+    },
+    {
+        "name": "Dugtrio",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 165,
+        "image": "dugtrio"
+    },
+    {
+        "name": "Drilbur",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Metal Sound",
+            "Submission",
+            "Slash"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 166,
+        "image": "drilbur"
+    },
+    {
+        "name": "Excadrill",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 167,
+        "image": "excadrill"
+    },
+    {
+        "name": "Roggenrola",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [
+            "Curse",
+            "Autotomize",
+            "Take Down",
+            "Gravity",
+            "Wide Guard"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 168,
+        "image": "roggenrola"
+    },
+    {
+        "name": "Boldore",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 169,
+        "image": "boldore"
+    },
+    {
+        "name": "Gigalith",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 170,
+        "image": "gigalith"
+    },
+    {
+        "name": "Timburr",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [
+            "Counter",
+            "Detect",
+            "Wide Guard",
+            "Mach Punch",
+            "Power-Up Punch",
+            "Defog"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 171,
+        "image": "timburr"
+    },
+    {
+        "name": "Gurdurr",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 172,
+        "image": "gurdurr"
+    },
+    {
+        "name": "Conkeldurr",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 173,
+        "image": "conkeldurr"
+    },
+    {
+        "name": "Woobat",
+        "eggGroups": [
+            "Field",
+            "Flying"
+        ],
+        "eggMoves": [
+            "Knock Off",
+            "Supersonic",
+            "Roost",
+            "Flatter",
+            "Psycho Shift"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 174,
+        "image": "woobat"
+    },
+    {
+        "name": "Swoobat",
+        "eggGroups": [
+            "Field",
+            "Flying"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 175,
+        "image": "swoobat"
+    },
+    {
+        "name": "Noibat",
+        "eggGroups": [
+            "Flying",
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Defog",
+            "Dragon Rush"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 176,
+        "image": "noibat"
+    },
+    {
+        "name": "Noivern",
+        "eggGroups": [
+            "Flying",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 177,
+        "image": "noivern"
+    },
+    {
+        "name": "Onix",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [
+            "Flail",
+            "Block",
+            "Defense Curl",
+            "Wide Guard",
+            "Rollout",
+            "Dragon Tail",
+            "Head Smash"
+        ],
+        "hatchCycles": 25,
+        "dexNumber": 178,
+        "image": "onix"
+    },
+    {
+        "name": "Steelix",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 179,
+        "image": "steelix"
+    },
+    {
+        "name": "Arrokuda",
+        "eggGroups": [
+            "Water2"
+        ],
+        "eggMoves": [
+            "Thrash",
+            "Acupressure",
+            "Slash",
+            "Night Slash"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 180,
+        "image": "arrokuda"
+    },
+    {
+        "name": "Barraskewda",
+        "eggGroups": [
+            "Water2"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 181,
+        "image": "barraskewda"
+    },
+    {
+        "name": "Meowth",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Spite",
+            "Hypnosis",
+            "Last Resort",
+            "Flail",
+            "Tail Whip",
+            "Covet"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 182,
+        "image": "meowth_g",
+        "forms":[
+            {"name":"Kanto", "image": "meowth_k"},
+            {"name":"Galar", "image": "meowth_g"}
+        ]
+    },
+    {
+        "name": "Perrserker",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 183,
+        "image": "perrserker"
+    },
+    {
+        "name": "Persian",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 184,
+        "image": "persian"
+    },
+    {
+        "name": "Milcery",
+        "eggGroups": [
+            "Fairy",
+            "Amorphous"
+        ],
+        "eggMoves": [
+            "Baby-Doll Eyes",
+            "Last Resort"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 185,
+        "image": "milcery"
+    },
+    {
+        "name": "Alcremie",
+        "eggGroups": [
+            "Fairy",
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 186,
+        "image": "alcremie"
+    },
+    {
+        "name": "Cutiefly",
+        "eggGroups": [
+            "Bug",
+            "Fairy"
+        ],
+        "eggMoves": [
+            "Moonblast",
+            "Sticky Web",
+            "Aromatic Mist"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 187,
+        "image": "cutiefly"
+    },
+    {
+        "name": "Ribombee",
+        "eggGroups": [
+            "Bug",
+            "Fairy"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 188,
+        "image": "ribombee"
+    },
+    {
+        "name": "Ferroseed",
+        "eggGroups": [
+            "Grass",
+            "Mineral"
+        ],
+        "eggMoves": [
+            "Leech Seed",
+            "Gravity",
+            "Acid Spray",
+            "Toxic",
+            "Knock Off"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 189,
+        "image": "ferroseed"
+    },
+    {
+        "name": "Ferrothorn",
+        "eggGroups": [
+            "Grass",
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 190,
+        "image": "ferrothorn"
+    },
+    {
+        "name": "Pumpkaboo",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [
+            "Disable",
+            "Destiny Bond",
+            "Curse"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 191,
+        "image": "pumpkaboo"
+    },
+    {
+        "name": "Gourgeist",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 192,
+        "image": "gourgeist"
+    },
+    {
+        "name": "Pichu",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [
+            "Present",
+            "Wish",
+            "Charge",
+            "Fake Out",
+            "Tickle",
+            "Flail",
+            "Disarming Voice"
+        ],
+        "hatchCycles": 10,
+        "dexNumber": 193,
+        "image": "pichu"
+    },
+    {
+        "name": "Pikachu",
+        "eggGroups": [
+            "Field",
+            "Fairy"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 10,
+        "dexNumber": 194,
+        "image": "pikachu"
+    },
+    {
+        "name": "Raichu",
+        "eggGroups": [
+            "Field",
+            "Fairy"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 10,
+        "dexNumber": 195,
+        "image": "raichu"
+    },
+    {
+        "name": "Eevee",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Flail",
+            "Curse",
+            "Tickle",
+            "Yawn",
+            "Detect",
+            "Double Kick",
+            "Mud-Slap",
+            "Wish"
+        ],
+        "hatchCycles": 35,
+        "dexNumber": 196,
+        "image": "eevee"
+    },
+    {
+        "name": "Vaporeon",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 35,
+        "dexNumber": 197,
+        "image": "vaporeon"
+    },
+    {
+        "name": "Jolteon",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 35,
+        "dexNumber": 198,
+        "image": "jolteon"
+    },
+    {
+        "name": "Flareon",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 35,
+        "dexNumber": 199,
+        "image": "flareon"
+    },
+    {
+        "name": "Espeon",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 35,
+        "dexNumber": 200,
+        "image": "espeon"
+    },
+    {
+        "name": "Umbreon",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 35,
+        "dexNumber": 201,
+        "image": "umbreon"
+    },
+    {
+        "name": "Leafeon",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 35,
+        "dexNumber": 202,
+        "image": "leafeon"
+    },
+    {
+        "name": "Glaceon",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 35,
+        "dexNumber": 203,
+        "image": "glaceon"
+    },
+    {
+        "name": "Sylveon",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 35,
+        "dexNumber": 204,
+        "image": "sylveon"
+    },
+    {
+        "name": "Applin",
+        "eggGroups": [
+            "Grass",
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Sucker Punch",
+            "Rollout",
+            "Defense Curl",
+            "Recycle"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 205,
+        "image": "applin"
+    },
+    {
+        "name": "Flapple",
+        "eggGroups": [
+            "Grass",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 206,
+        "image": "flapple"
+    },
+    {
+        "name": "Appletun",
+        "eggGroups": [
+            "Grass",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 207,
+        "image": "appletun"
+    },
+    {
+        "name": "Espurr",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Yawn",
+            "Tickle"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 208,
+        "image": "espurr"
+    },
+    {
+        "name": "Meowstic",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 209,
+        "image": "meowstic"
+    },
+    {
+        "name": "Swirlix",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "eggMoves": [
+            "After You",
+            "Yawn",
+            "Copycat",
+            "Sticky Web"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 210,
+        "image": "swirlix"
+    },
+    {
+        "name": "Slurpuff",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 211,
+        "image": "slurpuff"
+    },
+    {
+        "name": "Spritzee",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "eggMoves": [
+            "Disable",
+            "Wish",
+            "After You"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 212,
+        "image": "spritzee"
+    },
+    {
+        "name": "Aromatisse",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 213,
+        "image": "aromatisse"
+    },
+    {
+        "name": "Dewpider",
+        "eggGroups": [
+            "Water1",
+            "Bug"
+        ],
+        "eggMoves": [
+            "Power Split",
+            "Stockpile",
+            "Spit Up",
+            "Sticky Web"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 214,
+        "image": "dewpider"
+    },
+    {
+        "name": "Araquanid",
+        "eggGroups": [
+            "Water1",
+            "Bug"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 215,
+        "image": "araquanid"
+    },
+    {
+        "name": "Wynaut",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 216,
+        "image": "wynaut"
+    },
+    {
+        "name": "Wobbuffet",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 217,
+        "image": "wobbuffet"
+    },
+    {
+        "name": "Farfetch’d",
+        "eggGroups": [
+            "Flying",
+            "Field"
+        ],
+        "eggMoves": [
+            "Gust",
+            "Quick Attack",
+            "Flail",
+            "Feather Dance",
+            "Curse",
+            "Covet",
+            "Night Slash",
+            "Roost",
+            "Simple Beam",
+            "First Impression",
+            "Final Gambit",
+            "Feint",
+            "Sky Attack"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 218,
+        "image": "farfetchd"
+    },
+    {
+        "name": "Sirfetch’d",
+        "eggGroups": [
+            "Flying",
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 219,
+        "image": "sirfetchd"
+    },
+    {
+        "name": "Chinchou",
+        "eggGroups": [
+            "Water2"
+        ],
+        "eggMoves": [
+            "Psybeam",
+            "Mist",
+            "Water Pulse",
+            "Soak"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 220,
+        "image": "chinchou"
+    },
+    {
+        "name": "Lanturn",
+        "eggGroups": [
+            "Water2"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 221,
+        "image": "lanturn"
+    },
+    {
+        "name": "Croagunk",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [
+            "Feint",
+            "Dynamic Punch",
+            "Headbutt",
+            "Vacuum Wave",
+            "Fake Out",
+            "Cross Chop",
+            "Bullet Punch",
+            "Counter",
+            "Quick Guard"
+        ],
+        "hatchCycles": 10,
+        "dexNumber": 222,
+        "image": "croagunk"
+    },
+    {
+        "name": "Toxicroak",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 223,
+        "image": "toxicroak"
+    },
+    {
+        "name": "Scraggy",
+        "eggGroups": [
+            "Field",
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Counter",
+            "Detect",
+            "Fake Out",
+            "Quick Guard",
+            "Power-Up Punch",
+            "Acid Spray"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 224,
+        "image": "scraggy"
+    },
+    {
+        "name": "Scrafty",
+        "eggGroups": [
+            "Field",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 225,
+        "image": "scrafty"
+    },
+    {
+        "name": "Stunfisk",
+        "eggGroups": [
+            "Water1",
+            "Amorphous"
+        ],
+        "eggMoves": [
+            "Yawn",
+            "Astonish",
+            "Curse",
+            "Spite",
+            "Spark",
+            "Pain Split",
+            "Reflect Type"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 226,
+        "image": "stunfisk"
+    },
+    {
+        "name": "Shuckle",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [
+            "Sweet Scent",
+            "Knock Off",
+            "Acupressure",
+            "Acid",
+            "Final Gambit",
+            "Defense Curl",
+            "Infestation",
+            "Toxic",
+            "Covet"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 227,
+        "image": "shuckle"
+    },
+    {
+        "name": "Barboach",
+        "eggGroups": [
+            "Water2"
+        ],
+        "eggMoves": [
+            "Thrash",
+            "Spark",
+            "Flail",
+            "Take Down"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 228,
+        "image": "barboach"
+    },
+    {
+        "name": "Whiscash",
+        "eggGroups": [
+            "Water2"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 229,
+        "image": "whiscash"
+    },
+    {
+        "name": "Shellos",
+        "eggGroups": [
+            "Water1",
+            "Amorphous"
+        ],
+        "eggMoves": [
+            "Counter",
+            "Mirror Coat",
+            "Stockpile",
+            "Swallow",
+            "Spit Up",
+            "Yawn",
+            "Curse",
+            "Sludge",
+            "Clear Smog",
+            "Mist",
+            "Acid Armor"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 230,
+        "image": "shellos"
+    },
+    {
+        "name": "Gastrodon",
+        "eggGroups": [
+            "Water1",
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 231,
+        "image": "gastrodon"
+    },
+    {
+        "name": "Wimpod",
+        "eggGroups": [
+            "Bug",
+            "Water3"
+        ],
+        "eggMoves": [
+            "Metal Claw",
+            "Wide Guard",
+            "Harden",
+            "Aqua Jet",
+            "Rollout"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 232,
+        "image": "wimpod"
+    },
+    {
+        "name": "Golisopod",
+        "eggGroups": [
+            "Bug",
+            "Water3"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 233,
+        "image": "golisopod"
+    },
+    {
+        "name": "Binacle",
+        "eggGroups": [
+            "Water3"
+        ],
+        "eggMoves": [
+            "Switcheroo",
+            "Night Slash",
+            "Sand Attack"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 234,
+        "image": "binacle"
+    },
+    {
+        "name": "Barbaracle",
+        "eggGroups": [
+            "Water3"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 235,
+        "image": "barbaracle"
+    },
+    {
+        "name": "Corsola",
+        "eggGroups": [
+            "Water1",
+            "Water3"
+        ],
+        "eggMoves": [
+            "Mist",
+            "Confuse Ray",
+            "Nature Power",
+            "Curse",
+            "Water Pulse",
+            "Head Smash"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 236,
+        "image": "corsola"
+    },
+    {
+        "name": "Cursola",
+        "eggGroups": [
+            "Water1",
+            "Water3"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 237,
+        "image": "cursola"
+    },
+    {
+        "name": "Impidimp",
+        "eggGroups": [
+            "Fairy",
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 238,
+        "image": "impidimp"
+    },
+    {
+        "name": "Morgrem",
+        "eggGroups": [
+            "Fairy",
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 239,
+        "image": "morgrem"
+    },
+    {
+        "name": "Grimmsnarl",
+        "eggGroups": [
+            "Fairy",
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 240,
+        "image": "grimmsnarl"
+    },
+    {
+        "name": "Hatenna",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "eggMoves": [
+            "Aromatic Mist",
+            "Nuzzle",
+            "After You",
+            "Quash"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 241,
+        "image": "hatenna"
+    },
+    {
+        "name": "Hattrem",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 242,
+        "image": "hattrem"
+    },
+    {
+        "name": "Hatterene",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 243,
+        "image": "hatterene"
+    },
+    {
+        "name": "Salandit",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Belch",
+            "Sand Attack",
+            "Fake Out",
+            "Mud-Slap"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 244,
+        "image": "salandit"
+    },
+    {
+        "name": "Salazzle",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 245,
+        "image": "salazzle"
+    },
+    {
+        "name": "Pawniard",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [
+            "Sucker Punch",
+            "Headbutt",
+            "Mean Look",
+            "Quick Guard"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 246,
+        "image": "pawniard"
+    },
+    {
+        "name": "Bisharp",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 247,
+        "image": "bisharp"
+    },
+    {
+        "name": "Throh",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 248,
+        "image": "throh"
+    },
+    {
+        "name": "Sawk",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 249,
+        "image": "sawk"
+    },
+    {
+        "name": "Koffing",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [
+            "Psybeam",
+            "Pain Split",
+            "Grudge",
+            "Spite",
+            "Curse",
+            "Stockpile",
+            "Swallow",
+            "Spit Up"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 250,
+        "image": "koffing"
+    },
+    {
+        "name": "Weezing",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 251,
+        "image": "weezing"
+    },
+    {
+        "name": "Bonsly",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [
+            "Headbutt",
+            "Harden",
+            "Defense Curl",
+            "Curse",
+            "Rollout",
+            "Rock Polish"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 252,
+        "image": "bonsly"
+    },
+    {
+        "name": "Sudowoodo",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [
+            "Headbutt",
+            "Harden",
+            "Defense Curl",
+            "Curse",
+            "Rollout",
+            "Rock Polish"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 253,
+        "image": "sudowoodo"
+    },
+    {
+        "name": "Cleffa",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [
+            "Present",
+            "Wish",
+            "Aromatherapy",
+            "Tickle",
+            "Heal Pulse"
+        ],
+        "hatchCycles": 10,
+        "dexNumber": 254,
+        "image": "cleffa"
+    },
+    {
+        "name": "Clefairy",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 10,
+        "dexNumber": 255,
+        "image": "clefairy"
+    },
+    {
+        "name": "Clefable",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 10,
+        "dexNumber": 256,
+        "image": "clefable"
+    },
+    {
+        "name": "Togepi",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [
+            "Present",
+            "Peck",
+            "Psycho Shift",
+            "Extrasensory",
+            "Morning Sun",
+            "Aerial Ace"
+        ],
+        "hatchCycles": 10,
+        "dexNumber": 257,
+        "image": "togepi"
+    },
+    {
+        "name": "Togetic",
+        "eggGroups": [
+            "Flying",
+            "Fairy"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 10,
+        "dexNumber": 258,
+        "image": "togetic"
+    },
+    {
+        "name": "Togekiss",
+        "eggGroups": [
+            "Flying",
+            "Fairy"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 10,
+        "dexNumber": 259,
+        "image": "togekiss"
+    },
+    {
+        "name": "Munchlax",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [
+            "Double-Edge",
+            "Curse",
+            "Fissure",
+            "Counter",
+            "Belch"
+        ],
+        "hatchCycles": 40,
+        "dexNumber": 260,
+        "image": "munchlax"
+    },
+    {
+        "name": "Snorlax",
+        "eggGroups": [
+            "Monster"
+        ],
+        "eggMoves": [
+            "Double-Edge",
+            "Curse",
+            "Fissure",
+            "Counter",
+            "Gastro Acid"
+        ],
+        "hatchCycles": 40,
+        "dexNumber": 261,
+        "image": "snorlax"
+    },
+    {
+        "name": "Cottonee",
+        "eggGroups": [
+            "Grass",
+            "Fairy"
+        ],
+        "eggMoves": [
+            "Tickle",
+            "Memento",
+            "Switcheroo",
+            "Worry Seed",
+            "Nature Power"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 262,
+        "image": "cottonee"
+    },
+    {
+        "name": "Whimsicott",
+        "eggGroups": [
+            "Grass",
+            "Fairy"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 263,
+        "image": "whimsicott"
+    },
+    {
+        "name": "Rhyhorn",
+        "eggGroups": [
+            "Monster",
+            "Field"
+        ],
+        "eggMoves": [
+            "Counter",
+            "Curse",
+            "Dragon Rush",
+            "Skull Bash",
+            "Metal Burst",
+            "Guard Split",
+            "Rock Polish"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 264,
+        "image": "rhyhorn"
+    },
+    {
+        "name": "Rhydon",
+        "eggGroups": [
+            "Monster",
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 265,
+        "image": "rhydon"
+    },
+    {
+        "name": "Rhyperior",
+        "eggGroups": [
+            "Monster",
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 266,
+        "image": "rhyperior"
+    },
+    {
+        "name": "Gothita",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [
+            "Mirror Coat",
+            "Mean Look",
+            "Heal Pulse",
+            "Torment",
+            "Fake Out"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 267,
+        "image": "gothita"
+    },
+    {
+        "name": "Gothorita",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 268,
+        "image": "gothorita"
+    },
+    {
+        "name": "Gothitelle",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 269,
+        "image": "gothitelle"
+    },
+    {
+        "name": "Solosis",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [
+            "Astonish",
+            "Confuse Ray",
+            "Acid Armor"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 270,
+        "image": "solosis"
+    },
+    {
+        "name": "Duosion",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 271,
+        "image": "duosion"
+    },
+    {
+        "name": "Reuniclus",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 272,
+        "image": "reuniclus"
+    },
+    {
+        "name": "Karrablast",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [
+            "Counter",
+            "Bug Bite",
+            "Knock Off",
+            "Slash",
+            "Night Slash"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 273,
+        "image": "karrablast"
+    },
+    {
+        "name": "Escavalier",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 274,
+        "image": "escavalier"
+    },
+    {
+        "name": "Shelmet",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [
+            "Double-Edge",
+            "Guard Split",
+            "Mind Reader",
+            "Feint"
+        ],
+        "hatchCycles": 15,
+        "dexNumber": 275,
+        "image": "shelmet"
+    },
+    {
+        "name": "Accelgor",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 15,
+        "dexNumber": 276,
+        "image": "accelgor"
+    },
+    {
+        "name": "Elgyem",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [
+            "Disable",
+            "Astonish",
+            "Psych Up",
+            "Destiny Bond"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 277,
+        "image": "elgyem"
+    },
+    {
+        "name": "Beheeyem",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 278,
+        "image": "beheeyem"
+    },
+    {
+        "name": "Cubchoo",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Yawn",
+            "Night Slash",
+            "Focus Punch"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 279,
+        "image": "cubchoo"
+    },
+    {
+        "name": "Beartic",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 280,
+        "image": "beartic"
+    },
+    {
+        "name": "Rufflet",
+        "eggGroups": [
+            "Flying"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 281,
+        "image": "rufflet"
+    },
+    {
+        "name": "Braviary",
+        "eggGroups": [
+            "Flying"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 282,
+        "image": "braviary"
+    },
+    {
+        "name": "Vullaby",
+        "eggGroups": [
+            "Flying"
+        ],
+        "eggMoves": [
+            "Mean Look",
+            "Roost",
+            "Toxic"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 283,
+        "image": "vullaby"
+    },
+    {
+        "name": "Mandibuzz",
+        "eggGroups": [
+            "Flying"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 284,
+        "image": "mandibuzz"
+    },
+    {
+        "name": "Skorupi",
+        "eggGroups": [
+            "Bug",
+            "Water3"
+        ],
+        "eggMoves": [
+            "Sand Attack",
+            "Slash",
+            "Confuse Ray",
+            "Whirlwind"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 285,
+        "image": "skorupi"
+    },
+    {
+        "name": "Drapion",
+        "eggGroups": [
+            "Bug",
+            "Water3"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 286,
+        "image": "drapion"
+    },
+    {
+        "name": "Litwick",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [
+            "Acid Armor",
+            "Haze",
+            "Clear Smog",
+            "Power Split"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 287,
+        "image": "litwick"
+    },
+    {
+        "name": "Lampent",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 288,
+        "image": "lampent"
+    },
+    {
+        "name": "Chandelure",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 289,
+        "image": "chandelure"
+    },
+    {
+        "name": "Inkay",
+        "eggGroups": [
+            "Water1",
+            "Water2"
+        ],
+        "eggMoves": [
+            "Destiny Bond",
+            "Disable",
+            "Acupressure"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 290,
+        "image": "inkay"
+    },
+    {
+        "name": "Malamar",
+        "eggGroups": [
+            "Water1",
+            "Water2"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 291,
+        "image": "malamar"
+    },
+    {
+        "name": "Sneasel",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Counter",
+            "Spite",
+            "Bite",
+            "Fake Out",
+            "Double Hit",
+            "Ice Shard",
+            "Feint",
+            "Icicle Crash"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 292,
+        "image": "sneasel"
+    },
+    {
+        "name": "Weavile",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 293,
+        "image": "weavile"
+    },
+    {
+        "name": "Sableye",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [
+            "Recover",
+            "Flatter",
+            "Feint",
+            "Sucker Punch",
+            "Metal Burst",
+            "Torment"
+        ],
+        "hatchCycles": 25,
+        "dexNumber": 294,
+        "image": "sableye"
+    },
+    {
+        "name": "Mawile",
+        "eggGroups": [
+            "Field",
+            "Fairy"
+        ],
+        "eggMoves": [
+            "Ancient Power",
+            "Tickle",
+            "Slam",
+            "Seismic Toss",
+            "Power-Up Punch"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 295,
+        "image": "mawile"
+    },
+    {
+        "name": "Maractus",
+        "eggGroups": [
+            "Grass"
+        ],
+        "eggMoves": [
+            "Worry Seed",
+            "Wood Hammer"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 296,
+        "image": "maractus"
+    },
+    {
+        "name": "Sigilyph",
+        "eggGroups": [
+            "Flying"
+        ],
+        "eggMoves": [
+            "Psycho Shift",
+            "Ancient Power",
+            "Roost"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 297,
+        "image": "sigilyph"
+    },
+    {
+        "name": "Riolu",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [
+            "Cross Chop",
+            "Detect",
+            "Bite",
+            "Mind Reader",
+            "High Jump Kick",
+            "Vacuum Wave",
+            "Bullet Punch",
+            "Circle Throw",
+            "Howl"
+        ],
+        "hatchCycles": 25,
+        "dexNumber": 298,
+        "image": "riolu"
+    },
+    {
+        "name": "Lucario",
+        "eggGroups": [
+            "Field",
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 299,
+        "image": "lucario"
+    },
+    {
+        "name": "Torkoal",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Yawn",
+            "Fissure",
+            "Skull Bash",
+            "Flail",
+            "Ancient Power"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 300,
+        "image": "torkoal"
+    },
+    {
+        "name": "Mimikyu",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [
+            "Grudge",
+            "Destiny Bond",
+            "Curse"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 301,
+        "image": "mimikyu"
+    },
+    {
+        "name": "Cufant",
+        "eggGroups": [
+            "Field",
+            "Mineral"
+        ],
+        "eggMoves": [
+            "Double-Edge",
+            "Belch",
+            "Curse",
+            "Slam",
+            "Fissure",
+            "Swagger",
+            "Whirlwind",
+            "Defense Curl"
+        ],
+        "hatchCycles": 25,
+        "dexNumber": 302,
+        "image": "cufant"
+    },
+    {
+        "name": "Copperajah",
+        "eggGroups": [
+            "Field",
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 303,
+        "image": "copperajah"
+    },
+    {
+        "name": "Qwilfish",
+        "eggGroups": [
+            "Water2"
+        ],
+        "eggMoves": [
+            "Flail",
+            "Haze",
+            "Bubble Beam",
+            "Supersonic",
+            "Astonish",
+            "Aqua Jet",
+            "Water Pulse",
+            "Acid Spray"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 304,
+        "image": "qwilfish"
+    },
+    {
+        "name": "Frillish",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [
+            "Acid Armor",
+            "Confuse Ray",
+            "Pain Split",
+            "Mist",
+            "Bubble Beam",
+            "Strength Sap"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 305,
+        "image": "frillish"
+    },
+    {
+        "name": "Jellicent",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 306,
+        "image": "jellicent"
+    },
+    {
+        "name": "Mareanie",
+        "eggGroups": [
+            "Water1"
+        ],
+        "eggMoves": [
+            "Stockpile",
+            "Swallow",
+            "Spit Up",
+            "Haze",
+            "Infestation"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 307,
+        "image": "mareanie"
+    },
+    {
+        "name": "Toxapex",
+        "eggGroups": [
+            "Water1"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 308,
+        "image": "toxapex"
+    },
+    {
+        "name": "Cramorant",
+        "eggGroups": [
+            "Water1",
+            "Flying"
+        ],
+        "eggMoves": [
+            "Defog",
+            "Aerial Ace",
+            "Feather Dance",
+            "Aqua Ring",
+            "Roost"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 309,
+        "image": "cramorant"
+    },
+    {
+        "name": "Toxel",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [
+            "Endeavor",
+            "Metal Sound",
+            "Power-Up Punch"
+        ],
+        "hatchCycles": 25,
+        "dexNumber": 310,
+        "image": "toxel"
+    },
+    {
+        "name": "Toxtricity",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 311,
+        "image": "toxtricity"
+    },
+    {
+        "name": "Silicobra",
+        "eggGroups": [
+            "Field",
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Dragon Rush",
+            "Mud-Slap",
+            "Last Resort",
+            "Belch",
+            "Poison Tail"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 312,
+        "image": "silicobra"
+    },
+    {
+        "name": "Sandaconda",
+        "eggGroups": [
+            "Field",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 313,
+        "image": "sandaconda"
+    },
+    {
+        "name": "Hippopotas",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Stockpile",
+            "Swallow",
+            "Spit Up",
+            "Curse",
+            "Whirlwind"
+        ],
+        "hatchCycles": 30,
+        "dexNumber": 314,
+        "image": "hippopotas"
+    },
+    {
+        "name": "Hippowdon",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 30,
+        "dexNumber": 315,
+        "image": "hippowdon"
+    },
+    {
+        "name": "Durant",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [
+            "Struggle Bug",
+            "First Impression",
+            "Metal Burst",
+            "Infestation",
+            "Flail"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 316,
+        "image": "durant"
+    },
+    {
+        "name": "Heatmor",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Night Slash",
+            "Curse",
+            "Sucker Punch",
+            "Tickle",
+            "Belch"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 317,
+        "image": "heatmor"
+    },
+    {
+        "name": "Helioptile",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Glare",
+            "Dragon Rush",
+            "Dragon Tail"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 318,
+        "image": "helioptile"
+    },
+    {
+        "name": "Heliolisk",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 319,
+        "image": "heliolisk"
+    },
+    {
+        "name": "Hawlucha",
+        "eggGroups": [
+            "Flying",
+            "HumanLike"
+        ],
+        "eggMoves": [
+            "Entrainment",
+            "Quick Guard",
+            "Feint",
+            "Defog",
+            "Mean Look",
+            "Cross Chop"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 320,
+        "image": "hawlucha"
+    },
+    {
+        "name": "Trapinch",
+        "eggGroups": [
+            "Bug",
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Quick Attack",
+            "Gust",
+            "Flail",
+            "Fury Cutter",
+            "Bug Bite",
+            "Feint",
+            "First Impression"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 321,
+        "image": "trapinch"
+    },
+    {
+        "name": "Vibrava",
+        "eggGroups": [
+            "Bug",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 322,
+        "image": "vibrava"
+    },
+    {
+        "name": "Flygon",
+        "eggGroups": [
+            "Bug",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 323,
+        "image": "flygon"
+    },
+    {
+        "name": "Axew",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Counter",
+            "Night Slash",
+            "Endeavor",
+            "Harden",
+            "First Impression",
+            "Counter"
+        ],
+        "hatchCycles": 40,
+        "dexNumber": 324,
+        "image": "axew"
+    },
+    {
+        "name": "Fraxure",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 40,
+        "dexNumber": 325,
+        "image": "fraxure"
+    },
+    {
+        "name": "Haxorus",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 40,
+        "dexNumber": 326,
+        "image": "haxorus"
+    },
+    {
+        "name": "Yamask",
+        "eggGroups": [
+            "Mineral",
+            "Amorphous"
+        ],
+        "eggMoves": [
+            "Memento"
+        ],
+        "hatchCycles": 25,
+        "dexNumber": 327,
+        "image": "yamask_g",
+        "forms":[
+            {"name": "Unova", "image":"yamask_u"},
+            {"name": "Galar", "image":"yamask_g"}
+        ]
+    },
+    {
+        "name": "Runerigus",
+        "eggGroups": [
+            "Mineral",
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 328,
+        "image": "runerigus"
+    },
+    {
+        "name": "Cofagrigus",
+        "eggGroups": [
+            "Mineral",
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 329,
+        "image": "cofagrigus"
+    },
+    {
+        "name": "Honedge",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [
+            "Destiny Bond",
+            "Wide Guard",
+            "Block"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 330,
+        "image": "honedge"
+    },
+    {
+        "name": "Doublade",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 331,
+        "image": "doublade"
+    },
+    {
+        "name": "Aegislash",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 332,
+        "image": "aegislash"
+    },
+    {
+        "name": "Ponyta",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Thrash",
+            "Double Kick",
+            "Hypnosis",
+            "Double-Edge",
+            "Horn Drill",
+            "Morning Sun"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 333,
+        "image": "ponyta"
+    },
+    {
+        "name": "Rapidash",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 334,
+        "image": "rapidash"
+    },
+    {
+        "name": "Sinistea",
+        "eggGroups": [
+            "Mineral",
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 335,
+        "image": "sinistea"
+    },
+    {
+        "name": "Polteageist",
+        "eggGroups": [
+            "Mineral",
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 336,
+        "image": "polteageist"
+    },
+    {
+        "name": "Indeedee",
+        "eggGroups": [
+            "Fairy"
+        ],
+        "eggMoves": [
+            "Psych Up",
+            "Fake Out",
+            "Extrasensory"
+        ],
+        "hatchCycles": 40,
+        "dexNumber": 337,
+        "image": "indeedee"
+    },
+    {
+        "name": "Phantump",
+        "eggGroups": [
+            "Grass",
+            "Amorphous"
+        ],
+        "eggMoves": [
+            "Grudge",
+            "Sucker Punch",
+            "Disable"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 338,
+        "image": "phantump"
+    },
+    {
+        "name": "Trevenant",
+        "eggGroups": [
+            "Grass",
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 339,
+        "image": "trevenant"
+    },
+    {
+        "name": "Morelull",
+        "eggGroups": [
+            "Grass"
+        ],
+        "eggMoves": [
+            "Poison Powder",
+            "Stun Spore",
+            "Growth",
+            "Leech Seed"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 340,
+        "image": "morelull"
+    },
+    {
+        "name": "Shiinotic",
+        "eggGroups": [
+            "Grass"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 341,
+        "image": "shiinotic"
+    },
+    {
+        "name": "Oranguru",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Extrasensory",
+            "Yawn",
+            "Last Resort",
+            "Dream Eater"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 342,
+        "image": "oranguru"
+    },
+    {
+        "name": "Passimian",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Seismic Toss",
+            "Vital Throw",
+            "Quick Guard",
+            "Quick Attack",
+            "Feint",
+            "Counter",
+            "Knock Off"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 343,
+        "image": "passimian"
+    },
+    {
+        "name": "Morpeko",
+        "eggGroups": [
+            "Field",
+            "Fairy"
+        ],
+        "eggMoves": [
+            "Swagger",
+            "Super Fang",
+            "Charge",
+            "Tickle",
+            "Rapid Spin",
+            "Quash",
+            "Parting Shot",
+            "Fake Out"
+        ],
+        "hatchCycles": 10,
+        "dexNumber": 344,
+        "image": "morpeko"
+    },
+    {
+        "name": "Falinks",
+        "eggGroups": [
+            "Fairy",
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 345,
+        "image": "falinks"
+    },
+    {
+        "name": "Drampa",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Dragon Rush",
+            "Mist",
+            "Tickle"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 346,
+        "image": "drampa"
+    },
+    {
+        "name": "Turtonator",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Wide Guard",
+            "Head Smash",
+            "Rapid Spin",
+            "Curse"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 347,
+        "image": "turtonator"
+    },
+    {
+        "name": "Togedemaru",
+        "eggGroups": [
+            "Field",
+            "Fairy"
+        ],
+        "eggMoves": [
+            "Present",
+            "Wish",
+            "Fake Out",
+            "Tickle",
+            "Flail",
+            "Disarming Voice"
+        ],
+        "hatchCycles": 10,
+        "dexNumber": 348,
+        "image": "togedemaru"
+    },
+    {
+        "name": "Snom",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [
+            "Fairy Wind",
+            "Mirror Coat",
+            "Bug Bite"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 349,
+        "image": "snom"
+    },
+    {
+        "name": "Frosmoth",
+        "eggGroups": [
+            "Bug"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 350,
+        "image": "frosmoth"
+    },
+    {
+        "name": "Clobbopus",
+        "eggGroups": [
+            "Water1",
+            "HumanLike"
+        ],
+        "eggMoves": [
+            "Pain Split",
+            "Soak",
+            "Sucker Punch",
+            "Circle Throw",
+            "Seismic Toss",
+            "Power-Up Punch"
+        ],
+        "hatchCycles": 25,
+        "dexNumber": 351,
+        "image": "clobbopus"
+    },
+    {
+        "name": "Grapploct",
+        "eggGroups": [
+            "Water1",
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 352,
+        "image": "grapploct"
+    },
+    {
+        "name": "Pincurchin",
+        "eggGroups": [
+            "Water1",
+            "Amorphous"
+        ],
+        "eggMoves": [
+            "Memento",
+            "Sucker Punch"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 353,
+        "image": "pincurchin"
+    },
+    {
+        "name": "Mantyke",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [
+            "Twister",
+            "Haze",
+            "Slam",
+            "Mirror Coat",
+            "Splash",
+            "Tailwind",
+            "Confuse Ray"
+        ],
+        "hatchCycles": 25,
+        "dexNumber": 354,
+        "image": "mantyke"
+    },
+    {
+        "name": "Mantine",
+        "eggGroups": [
+            "Water1"
+        ],
+        "eggMoves": [
+            "Twister",
+            "Haze",
+            "Slam",
+            "Mirror Coat",
+            "Splash",
+            "Tailwind",
+            "Confuse Ray"
+        ],
+        "hatchCycles": 25,
+        "dexNumber": 355,
+        "image": "mantine"
+    },
+    {
+        "name": "Wailmer",
+        "eggGroups": [
+            "Field",
+            "Water2"
+        ],
+        "eggMoves": [
+            "Double-Edge",
+            "Thrash",
+            "Curse",
+            "Fissure",
+            "Tickle",
+            "Defense Curl",
+            "Rollout",
+            "Aqua Ring",
+            "Soak"
+        ],
+        "hatchCycles": 40,
+        "dexNumber": 356,
+        "image": "wailmer"
+    },
+    {
+        "name": "Wailord",
+        "eggGroups": [
+            "Field",
+            "Water2"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 40,
+        "dexNumber": 357,
+        "image": "wailord"
+    },
+    {
+        "name": "Bergmite",
+        "eggGroups": [
+            "Monster",
+            "Mineral"
+        ],
+        "eggMoves": [
+            "Mist",
+            "Mirror Coat",
+            "Aurora Veil"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 358,
+        "image": "bergmite"
+    },
+    {
+        "name": "Avalugg",
+        "eggGroups": [
+            "Monster",
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 359,
+        "image": "avalugg"
+    },
+    {
+        "name": "Dhelmise",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 360,
+        "image": "dhelmise"
+    },
+    {
+        "name": "Lapras",
+        "eggGroups": [
+            "Monster",
+            "Water1"
+        ],
+        "eggMoves": [
+            "Tickle",
+            "Curse",
+            "Horn Drill",
+            "Ancient Power",
+            "Fissure",
+            "Freeze-Dry",
+            "Sparkling Aria"
+        ],
+        "hatchCycles": 40,
+        "dexNumber": 361,
+        "image": "lapras"
+    },
+    {
+        "name": "Lunatone",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 362,
+        "image": "lunatone"
+    },
+    {
+        "name": "Solrock",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 363,
+        "image": "solrock"
+    },
+    {
+        "name": "Mime Jr.",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [
+            "Hypnosis",
+            "Fake Out",
+            "Confuse Ray",
+            "Power Split",
+            "Tickle"
+        ],
+        "hatchCycles": 25,
+        "dexNumber": 364,
+        "image": "mimejr"
+    },
+    {
+        "name": "Mr. Mime",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [
+            "Hypnosis",
+            "Fake Out",
+            "Confuse Ray",
+            "Power Split",
+            "Tickle"
+        ],
+        "hatchCycles": 25,
+        "dexNumber": 365,
+        "image": "mrmime_g",
+        "forms":[
+            {"name": "Kanto", "image":"mrmime_k"},
+            {"name": "Galar", "image":"mrmime_g"}
+        ]
+    },
+    {
+        "name": "Mr. Rime",
+        "eggGroups": [
+            "HumanLike"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 25,
+        "dexNumber": 366,
+        "image": "mrrime"
+    },
+    {
+        "name": "Darumaka",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [
+            "Focus Punch",
+            "Hammer Arm",
+            "Take Down",
+            "Flame Wheel",
+            "Yawn",
+            "Extrasensory"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 367,
+        "image": "darumaka"
+    },
+    {
+        "name": "Darmanitan",
+        "eggGroups": [
+            "Field"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 368,
+        "image": "darmanitan"
+    },
+    {
+        "name": "Stonjourner",
+        "eggGroups": [
+            "Mineral"
+        ],
+        "eggMoves": [
+            "Curse",
+            "Ancient Power"
+        ],
+        "hatchCycles": 25,
+        "dexNumber": 369,
+        "image": "stonjourner"
+    },
+    {
+        "name": "Eiscue",
+        "eggGroups": [
+            "Water1",
+            "Field"
+        ],
+        "eggMoves": [
+            "Soak",
+            "Aqua Ring",
+            "Belly Drum",
+            "Double-Edge",
+            "Icicle Crash",
+            "Head Smash"
+        ],
+        "hatchCycles": 25,
+        "dexNumber": 370,
+        "image": "eiscue"
+    },
+    {
+        "name": "Duraludon",
+        "eggGroups": [
+            "Mineral",
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Slash",
+            "Night Slash",
+            "Mirror Coat"
+        ],
+        "hatchCycles": 30,
+        "dexNumber": 371,
+        "image": "duraludon"
+    },
+    {
+        "name": "Rotom",
+        "eggGroups": [
+            "Amorphous"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 372,
+        "image": "rotom"
+    },
+    {
+        "name": "Ditto",
+        "eggGroups": [
+            "Ditto"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 373,
+        "image": "ditto"
+    },
+    {
+        "name": "Dracozolt",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 35,
+        "dexNumber": 374,
+        "image": "dracozolt"
+    },
+    {
+        "name": "Arctozolt",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 35,
+        "dexNumber": 375,
+        "image": "arctozolt"
+    },
+    {
+        "name": "Dracovish",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 35,
+        "dexNumber": 376,
+        "image": "dracovish"
+    },
+    {
+        "name": "Arctovish",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 35,
+        "dexNumber": 377,
+        "image": "arctovish"
+    },
+    {
+        "name": "Charmander",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Belly Drum",
+            "Ancient Power",
+            "Bite",
+            "Dragon Rush",
+            "Metal Claw",
+            "Counter",
+            "Wing Attack",
+            "Dragon Tail"
+        ],
+        "hatchCycles": 20,
+        "dexNumber": 378,
+        "image": "charmander"
+    },
+    {
+        "name": "Charmeleon",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 379,
+        "image": "charmeleon"
+    },
+    {
+        "name": "Charizard",
+        "eggGroups": [
+            "Monster",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 20,
+        "dexNumber": 380,
+        "image": "charizard"
+    },
+    {
+        "name": "Type: Null",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 120,
+        "dexNumber": 381,
+        "image": "typenull"
+    },
+    {
+        "name": "Silvally",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 120,
+        "dexNumber": 382,
+        "image": "silvally"
+    },
+    {
+        "name": "Larvitar",
+        "eggGroups": [
+            "Monster"
+        ],
+        "eggMoves": [
+            "Stomp",
+            "Ancient Power",
+            "Curse"
+        ],
+        "hatchCycles": 40,
+        "dexNumber": 383,
+        "image": "larvitar"
+    },
+    {
+        "name": "Pupitar",
+        "eggGroups": [
+            "Monster"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 40,
+        "dexNumber": 384,
+        "image": "pupitar"
+    },
+    {
+        "name": "Tyranitar",
+        "eggGroups": [
+            "Monster"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 40,
+        "dexNumber": 385,
+        "image": "tyranitar"
+    },
+    {
+        "name": "Deino",
+        "eggGroups": [
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Double Hit",
+            "Astonish",
+            "Head Smash",
+            "Belch"
+        ],
+        "hatchCycles": 40,
+        "dexNumber": 386,
+        "image": "deino"
+    },
+    {
+        "name": "Zweilous",
+        "eggGroups": [
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 40,
+        "dexNumber": 387,
+        "image": "zweilous"
+    },
+    {
+        "name": "Hydreigon",
+        "eggGroups": [
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 40,
+        "dexNumber": 388,
+        "image": "hydreigon"
+    },
+    {
+        "name": "Goomy",
+        "eggGroups": [
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Counter",
+            "Life Dew"
+        ],
+        "hatchCycles": 40,
+        "dexNumber": 389,
+        "image": "goomy"
+    },
+    {
+        "name": "Sliggoo",
+        "eggGroups": [
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 40,
+        "dexNumber": 390,
+        "image": "sliggoo"
+    },
+    {
+        "name": "Goodra",
+        "eggGroups": [
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 40,
+        "dexNumber": 391,
+        "image": "goodra"
+    },
+    {
+        "name": "Jangmo-o",
+        "eggGroups": [
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Counter",
+            "Dragon Breath",
+            "Focus Punch"
+        ],
+        "hatchCycles": 40,
+        "dexNumber": 392,
+        "image": "jangmoo"
+    },
+    {
+        "name": "Hakamo-o",
+        "eggGroups": [
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 40,
+        "dexNumber": 393,
+        "image": "hakamoo"
+    },
+    {
+        "name": "Kommo-o",
+        "eggGroups": [
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 40,
+        "dexNumber": 394,
+        "image": "kommoo"
+    },
+    {
+        "name": "Dreepy",
+        "eggGroups": [
+            "Amorphous",
+            "Dragon"
+        ],
+        "eggMoves": [
+            "Curse",
+            "Grudge",
+            "Confuse Ray",
+            "Double Team",
+            "Disable",
+            "Dragon Tail",
+            "Sucker Punch"
+        ],
+        "hatchCycles": 40,
+        "dexNumber": 395,
+        "image": "dreepy"
+    },
+    {
+        "name": "Drakloak",
+        "eggGroups": [
+            "Amorphous",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 40,
+        "dexNumber": 396,
+        "image": "drakloak"
+    },
+    {
+        "name": "Dragapult",
+        "eggGroups": [
+            "Amorphous",
+            "Dragon"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 40,
+        "dexNumber": 397,
+        "image": "dragapult"
+    },
+    {
+        "name": "Zacian",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 120,
+        "dexNumber": 398,
+        "image": "zacian"
+    },
+    {
+        "name": "Zamazenta",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 120,
+        "dexNumber": 399,
+        "image": "zamazenta"
+    },
+    {
+        "name": "Eternatus",
+        "eggGroups": [
+            "Undiscovered"
+        ],
+        "eggMoves": [],
+        "hatchCycles": 120,
+        "dexNumber": 400,
+        "image": "eternatus"
+    }
+]
