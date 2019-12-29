@@ -59,21 +59,24 @@ const Autocomplete = ({ options, onSelect }) => {
 				onFocus={showOptions}
 				value={typedValue}
 			/>
-			<div className={optionsBox}>
-				{
-					optionsVisible && validOptions.map((option) => (
-						<button
-							key={option}
-							className={optionsButton}
-							data-value={option}
-							onMouseDown={selectOption}
-							type="button"
-						>
-							{option}
-						</button>
-					))
-				}
-			</div>
+			{
+				optionsVisible
+			&& (
+				<div className={optionsBox}>
+					{
+						validOptions.map((option) => (
+							<button
+								key={option}
+								className={optionsButton}
+								data-value={option}
+								onMouseDown={selectOption}
+								type="button"
+							>
+								{option}
+							</button>
+						))}
+				</div>
+			)}
 		</div>
 	);
 };
