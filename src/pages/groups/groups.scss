@@ -37,6 +37,25 @@
   }
 }
 
+.button {
+  padding: 8px;
+  margin: 0px 4px;
+  background-color: $pink;
+  font-family: 'Baloo';
+  border-radius: 4px;
+  transition: all 150ms ease-in-out;
+  &:hover {
+    background-color: darken($color: $pink, $amount: 10%);
+  }
+}
+
+.buttonHolder {
+  align-self: center;
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
 .centered {
   align-self: center;
 }
@@ -68,6 +87,19 @@
   flex-direction: column;
   background-color: $main;
   width: 100%;
+}
+
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  button {
+    margin-right: 0px;
+    background-color: $white;
+    &:hover {
+      background-color: darken($color: $white, $amount: 10%);
+    }
+  }
 }
 
 .eggGroup {
