@@ -44,7 +44,7 @@
         "name": "Scorbunny",
         "eggGroups": [
             "Field",
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [
             "High Jump Kick",
@@ -60,7 +60,7 @@
         "name": "Raboot",
         "eggGroups": [
             "Field",
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -71,7 +71,7 @@
         "name": "Cinderace",
         "eggGroups": [
             "Field",
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -81,7 +81,7 @@
     {
         "name": "Sobble",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Field"
         ],
         "eggMoves": [
@@ -100,7 +100,7 @@
     {
         "name": "Drizzile",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Field"
         ],
         "eggMoves": [],
@@ -111,7 +111,7 @@
     {
         "name": "Inteleon",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Field"
         ],
         "eggMoves": [],
@@ -429,7 +429,7 @@
     {
         "name": "Lotad",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Grass"
         ],
         "eggMoves": [
@@ -448,7 +448,7 @@
     {
         "name": "Lombre",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Grass"
         ],
         "eggMoves": [],
@@ -459,7 +459,7 @@
     {
         "name": "Ludicolo",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Grass"
         ],
         "eggMoves": [],
@@ -511,7 +511,7 @@
         "name": "Chewtle",
         "eggGroups": [
             "Monster",
-            "Water1"
+            "Water 1"
         ],
         "eggMoves": [
             "Skull Bash",
@@ -526,7 +526,7 @@
         "name": "Drednaw",
         "eggGroups": [
             "Monster",
-            "Water1"
+            "Water 1"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -722,7 +722,7 @@
     {
         "name": "Budew",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [
             "Synthesis",
@@ -767,7 +767,7 @@
     {
         "name": "Wingull",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Flying"
         ],
         "eggMoves": [
@@ -787,7 +787,7 @@
     {
         "name": "Pelipper",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Flying"
         ],
         "eggMoves": [],
@@ -978,7 +978,7 @@
     {
         "name": "Delibird",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Field"
         ],
         "eggMoves": [
@@ -1237,7 +1237,7 @@
     {
         "name": "Krabby",
         "eggGroups": [
-            "Water3"
+            "Water 3"
         ],
         "eggMoves": [
             "Knock Off",
@@ -1253,7 +1253,7 @@
     {
         "name": "Kingler",
         "eggGroups": [
-            "Water3"
+            "Water 3"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -1263,7 +1263,7 @@
     {
         "name": "Wooper",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Field"
         ],
         "eggMoves": [
@@ -1286,7 +1286,7 @@
     {
         "name": "Quagsire",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Field"
         ],
         "eggMoves": [],
@@ -1297,8 +1297,8 @@
     {
         "name": "Corphish",
         "eggGroups": [
-            "Water1",
-            "Water3"
+            "Water 1",
+            "Water 3"
         ],
         "eggMoves": [
             "Ancient Power",
@@ -1315,8 +1315,8 @@
     {
         "name": "Crawdaunt",
         "eggGroups": [
-            "Water1",
-            "Water3"
+            "Water 1",
+            "Water 3"
         ],
         "eggMoves": [],
         "hatchCycles": 15,
@@ -1362,7 +1362,7 @@
     {
         "name": "Tyrogue",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [
             "Rapid Spin",
@@ -1381,7 +1381,7 @@
     {
         "name": "Hitmonlee",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 25,
@@ -1391,7 +1391,7 @@
     {
         "name": "Hitmonchan",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 25,
@@ -1401,7 +1401,7 @@
     {
         "name": "Hitmontop",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 25,
@@ -1412,7 +1412,7 @@
         "name": "Pancham",
         "eggGroups": [
             "Field",
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [
             "Quash",
@@ -1429,7 +1429,7 @@
         "name": "Pangoro",
         "eggGroups": [
             "Field",
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 25,
@@ -1509,7 +1509,7 @@
     {
         "name": "Ralts",
         "eggGroups": [
-            "HumanLike",
+            "Human-Like",
             "Amorphous"
         ],
         "eggMoves": [
@@ -1529,7 +1529,7 @@
     {
         "name": "Kirlia",
         "eggGroups": [
-            "HumanLike",
+            "Human-Like",
             "Amorphous"
         ],
         "eggMoves": [],
@@ -1540,7 +1540,7 @@
     {
         "name": "Gardevoir",
         "eggGroups": [
-            "HumanLike",
+            "Human-Like",
             "Amorphous"
         ],
         "eggMoves": [],
@@ -1551,7 +1551,7 @@
     {
         "name": "Gallade",
         "eggGroups": [
-            "HumanLike",
+            "Human-Like",
             "Amorphous"
         ],
         "eggMoves": [],
@@ -1676,7 +1676,7 @@
     {
         "name": "Tympole",
         "eggGroups": [
-            "Water1"
+            "Water 1"
         ],
         "eggMoves": [
             "Water Pulse",
@@ -1691,7 +1691,7 @@
     {
         "name": "Palpitoad",
         "eggGroups": [
-            "Water1"
+            "Water 1"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -1701,7 +1701,7 @@
     {
         "name": "Seismitoad",
         "eggGroups": [
-            "Water1"
+            "Water 1"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -1746,7 +1746,7 @@
     {
         "name": "Machop",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [
             "Counter",
@@ -1762,7 +1762,7 @@
     {
         "name": "Machoke",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -1772,7 +1772,7 @@
     {
         "name": "Machamp",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -1822,7 +1822,7 @@
     {
         "name": "Magikarp",
         "eggGroups": [
-            "Water2",
+            "Water 2",
             "Dragon"
         ],
         "eggMoves": [],
@@ -1833,7 +1833,7 @@
     {
         "name": "Gyarados",
         "eggGroups": [
-            "Water2",
+            "Water 2",
             "Dragon"
         ],
         "eggMoves": [],
@@ -1844,7 +1844,7 @@
     {
         "name": "Goldeen",
         "eggGroups": [
-            "Water2"
+            "Water 2"
         ],
         "eggMoves": [
             "Psybeam",
@@ -1860,7 +1860,7 @@
     {
         "name": "Seaking",
         "eggGroups": [
-            "Water2"
+            "Water 2"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -1870,8 +1870,8 @@
     {
         "name": "Remoraid",
         "eggGroups": [
-            "Water1",
-            "Water2"
+            "Water 1",
+            "Water 2"
         ],
         "eggMoves": [
             "Octazooka",
@@ -1888,8 +1888,8 @@
     {
         "name": "Octillery",
         "eggGroups": [
-            "Water1",
-            "Water2"
+            "Water 1",
+            "Water 2"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -1899,7 +1899,7 @@
     {
         "name": "Shellder",
         "eggGroups": [
-            "Water3"
+            "Water 3"
         ],
         "eggMoves": [
             "Bubble Beam",
@@ -1914,7 +1914,7 @@
     {
         "name": "Cloyster",
         "eggGroups": [
-            "Water3"
+            "Water 3"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -1924,7 +1924,7 @@
     {
         "name": "Feebas",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Dragon"
         ],
         "eggMoves": [
@@ -1943,7 +1943,7 @@
     {
         "name": "Milotic",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Dragon"
         ],
         "eggMoves": [],
@@ -1954,7 +1954,7 @@
     {
         "name": "Basculin",
         "eggGroups": [
-            "Water2"
+            "Water 2"
         ],
         "eggMoves": [
             "Bubble Beam",
@@ -1977,7 +1977,7 @@
     {
         "name": "Wishiwashi",
         "eggGroups": [
-            "Water2"
+            "Water 2"
         ],
         "eggMoves": [
             "Mist",
@@ -1991,7 +1991,7 @@
     {
         "name": "Pyukumuku",
         "eggGroups": [
-            "Water1"
+            "Water 1"
         ],
         "eggMoves": [
             "Tickle",
@@ -2177,7 +2177,7 @@
     {
         "name": "Timburr",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [
             "Counter",
@@ -2194,7 +2194,7 @@
     {
         "name": "Gurdurr",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -2204,7 +2204,7 @@
     {
         "name": "Conkeldurr",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -2295,7 +2295,7 @@
     {
         "name": "Arrokuda",
         "eggGroups": [
-            "Water2"
+            "Water 2"
         ],
         "eggMoves": [
             "Thrash",
@@ -2310,7 +2310,7 @@
     {
         "name": "Barraskewda",
         "eggGroups": [
-            "Water2"
+            "Water 2"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -2464,7 +2464,7 @@
     {
         "name": "Pichu",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [
             "Present",
@@ -2713,7 +2713,7 @@
     {
         "name": "Dewpider",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Bug"
         ],
         "eggMoves": [
@@ -2729,7 +2729,7 @@
     {
         "name": "Araquanid",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Bug"
         ],
         "eggMoves": [],
@@ -2740,7 +2740,7 @@
     {
         "name": "Wynaut",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -2796,7 +2796,7 @@
     {
         "name": "Chinchou",
         "eggGroups": [
-            "Water2"
+            "Water 2"
         ],
         "eggMoves": [
             "Psybeam",
@@ -2811,7 +2811,7 @@
     {
         "name": "Lanturn",
         "eggGroups": [
-            "Water2"
+            "Water 2"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -2821,7 +2821,7 @@
     {
         "name": "Croagunk",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [
             "Feint",
@@ -2841,7 +2841,7 @@
     {
         "name": "Toxicroak",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -2880,7 +2880,7 @@
     {
         "name": "Stunfisk",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Amorphous"
         ],
         "eggMoves": [
@@ -2919,7 +2919,7 @@
     {
         "name": "Barboach",
         "eggGroups": [
-            "Water2"
+            "Water 2"
         ],
         "eggMoves": [
             "Thrash",
@@ -2934,7 +2934,7 @@
     {
         "name": "Whiscash",
         "eggGroups": [
-            "Water2"
+            "Water 2"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -2944,7 +2944,7 @@
     {
         "name": "Shellos",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Amorphous"
         ],
         "eggMoves": [
@@ -2967,7 +2967,7 @@
     {
         "name": "Gastrodon",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Amorphous"
         ],
         "eggMoves": [],
@@ -2979,7 +2979,7 @@
         "name": "Wimpod",
         "eggGroups": [
             "Bug",
-            "Water3"
+            "Water 3"
         ],
         "eggMoves": [
             "Metal Claw",
@@ -2996,7 +2996,7 @@
         "name": "Golisopod",
         "eggGroups": [
             "Bug",
-            "Water3"
+            "Water 3"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -3006,7 +3006,7 @@
     {
         "name": "Binacle",
         "eggGroups": [
-            "Water3"
+            "Water 3"
         ],
         "eggMoves": [
             "Switcheroo",
@@ -3020,7 +3020,7 @@
     {
         "name": "Barbaracle",
         "eggGroups": [
-            "Water3"
+            "Water 3"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -3030,8 +3030,8 @@
     {
         "name": "Corsola",
         "eggGroups": [
-            "Water1",
-            "Water3"
+            "Water 1",
+            "Water 3"
         ],
         "eggMoves": [
             "Mist",
@@ -3048,8 +3048,8 @@
     {
         "name": "Cursola",
         "eggGroups": [
-            "Water1",
-            "Water3"
+            "Water 1",
+            "Water 3"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -3060,7 +3060,7 @@
         "name": "Impidimp",
         "eggGroups": [
             "Fairy",
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -3071,7 +3071,7 @@
         "name": "Morgrem",
         "eggGroups": [
             "Fairy",
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -3082,7 +3082,7 @@
         "name": "Grimmsnarl",
         "eggGroups": [
             "Fairy",
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -3154,7 +3154,7 @@
     {
         "name": "Pawniard",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [
             "Sucker Punch",
@@ -3169,7 +3169,7 @@
     {
         "name": "Bisharp",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -3179,7 +3179,7 @@
     {
         "name": "Throh",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -3189,7 +3189,7 @@
     {
         "name": "Sawk",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -3228,7 +3228,7 @@
     {
         "name": "Bonsly",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [
             "Headbutt",
@@ -3262,7 +3262,7 @@
     {
         "name": "Cleffa",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [
             "Present",
@@ -3298,7 +3298,7 @@
     {
         "name": "Togepi",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [
             "Present",
@@ -3337,7 +3337,7 @@
     {
         "name": "Munchlax",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [
             "Double-Edge",
@@ -3438,7 +3438,7 @@
     {
         "name": "Gothita",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [
             "Mirror Coat",
@@ -3454,7 +3454,7 @@
     {
         "name": "Gothorita",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -3464,7 +3464,7 @@
     {
         "name": "Gothitelle",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -3559,7 +3559,7 @@
     {
         "name": "Elgyem",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [
             "Disable",
@@ -3574,7 +3574,7 @@
     {
         "name": "Beheeyem",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -3653,7 +3653,7 @@
         "name": "Skorupi",
         "eggGroups": [
             "Bug",
-            "Water3"
+            "Water 3"
         ],
         "eggMoves": [
             "Sand Attack",
@@ -3669,7 +3669,7 @@
         "name": "Drapion",
         "eggGroups": [
             "Bug",
-            "Water3"
+            "Water 3"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -3714,8 +3714,8 @@
     {
         "name": "Inkay",
         "eggGroups": [
-            "Water1",
-            "Water2"
+            "Water 1",
+            "Water 2"
         ],
         "eggMoves": [
             "Destiny Bond",
@@ -3729,8 +3729,8 @@
     {
         "name": "Malamar",
         "eggGroups": [
-            "Water1",
-            "Water2"
+            "Water 1",
+            "Water 2"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -3769,7 +3769,7 @@
     {
         "name": "Sableye",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [
             "Recover",
@@ -3830,7 +3830,7 @@
     {
         "name": "Riolu",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [
             "Cross Chop",
@@ -3851,7 +3851,7 @@
         "name": "Lucario",
         "eggGroups": [
             "Field",
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 25,
@@ -3922,7 +3922,7 @@
     {
         "name": "Qwilfish",
         "eggGroups": [
-            "Water2"
+            "Water 2"
         ],
         "eggMoves": [
             "Flail",
@@ -3968,7 +3968,7 @@
     {
         "name": "Mareanie",
         "eggGroups": [
-            "Water1"
+            "Water 1"
         ],
         "eggMoves": [
             "Stockpile",
@@ -3984,7 +3984,7 @@
     {
         "name": "Toxapex",
         "eggGroups": [
-            "Water1"
+            "Water 1"
         ],
         "eggMoves": [],
         "hatchCycles": 20,
@@ -3994,7 +3994,7 @@
     {
         "name": "Cramorant",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Flying"
         ],
         "eggMoves": [
@@ -4011,7 +4011,7 @@
     {
         "name": "Toxel",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [
             "Endeavor",
@@ -4025,7 +4025,7 @@
     {
         "name": "Toxtricity",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 25,
@@ -4148,7 +4148,7 @@
         "name": "Hawlucha",
         "eggGroups": [
             "Flying",
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [
             "Entrainment",
@@ -4570,8 +4570,8 @@
     {
         "name": "Clobbopus",
         "eggGroups": [
-            "Water1",
-            "HumanLike"
+            "Water 1",
+            "Human-Like"
         ],
         "eggMoves": [
             "Pain Split",
@@ -4588,8 +4588,8 @@
     {
         "name": "Grapploct",
         "eggGroups": [
-            "Water1",
-            "HumanLike"
+            "Water 1",
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 25,
@@ -4599,7 +4599,7 @@
     {
         "name": "Pincurchin",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Amorphous"
         ],
         "eggMoves": [
@@ -4613,7 +4613,7 @@
     {
         "name": "Mantyke",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [
             "Twister",
@@ -4631,7 +4631,7 @@
     {
         "name": "Mantine",
         "eggGroups": [
-            "Water1"
+            "Water 1"
         ],
         "eggMoves": [
             "Twister",
@@ -4650,7 +4650,7 @@
         "name": "Wailmer",
         "eggGroups": [
             "Field",
-            "Water2"
+            "Water 2"
         ],
         "eggMoves": [
             "Double-Edge",
@@ -4671,7 +4671,7 @@
         "name": "Wailord",
         "eggGroups": [
             "Field",
-            "Water2"
+            "Water 2"
         ],
         "eggMoves": [],
         "hatchCycles": 40,
@@ -4718,7 +4718,7 @@
         "name": "Lapras",
         "eggGroups": [
             "Monster",
-            "Water1"
+            "Water 1"
         ],
         "eggMoves": [
             "Tickle",
@@ -4756,7 +4756,7 @@
     {
         "name": "Mime Jr.",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [
             "Hypnosis",
@@ -4772,7 +4772,7 @@
     {
         "name": "Mr. Mime",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [
             "Hypnosis",
@@ -4792,7 +4792,7 @@
     {
         "name": "Mr. Rime",
         "eggGroups": [
-            "HumanLike"
+            "Human-Like"
         ],
         "eggMoves": [],
         "hatchCycles": 25,
@@ -4842,7 +4842,7 @@
     {
         "name": "Eiscue",
         "eggGroups": [
-            "Water1",
+            "Water 1",
             "Field"
         ],
         "eggMoves": [
@@ -4895,7 +4895,7 @@
     {
         "name": "Dracozolt",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [],
         "hatchCycles": 35,
@@ -4905,7 +4905,7 @@
     {
         "name": "Arctozolt",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [],
         "hatchCycles": 35,
@@ -4915,7 +4915,7 @@
     {
         "name": "Dracovish",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [],
         "hatchCycles": 35,
@@ -4925,7 +4925,7 @@
     {
         "name": "Arctovish",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [],
         "hatchCycles": 35,
@@ -4977,7 +4977,7 @@
     {
         "name": "Type: Null",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [],
         "hatchCycles": 120,
@@ -4987,7 +4987,7 @@
     {
         "name": "Silvally",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [],
         "hatchCycles": 120,
@@ -5174,7 +5174,7 @@
     {
         "name": "Zacian",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [],
         "hatchCycles": 120,
@@ -5184,7 +5184,7 @@
     {
         "name": "Zamazenta",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [],
         "hatchCycles": 120,
@@ -5194,7 +5194,7 @@
     {
         "name": "Eternatus",
         "eggGroups": [
-            "Undiscovered"
+            "Unbreedable"
         ],
         "eggMoves": [],
         "hatchCycles": 120,

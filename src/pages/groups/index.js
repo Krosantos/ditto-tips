@@ -1,20 +1,11 @@
-import React, { useMemo } from 'react';
-import pokedex from '@constants/pokedex.json';
-import PokeImage from '@shared/PokeImage';
+import React from 'react';
+import ByGroups from './ByGroups';
+import { container } from './groups.scss';
 
-import byGroup from './byGroup';
-
-const EggGroups = () => {
-	// const eggGroups = useMemo(() => byGroup(), []);
-	const doop = pokedex.map((mon) => mon.image);
-
-	return (
-		<div>
-			{doop.map((name) => (
-				<PokeImage image={name} />
-			))}
-		</div>
-	);
-};
+const EggGroups = () => (
+	<div className={container}>
+		<ByGroups />
+	</div>
+);
 
 export default EggGroups;

@@ -1,0 +1,90 @@
+@import "@theme/color.scss";
+@import "@theme/media.scss";
+
+.row {
+  display: flex;
+  border-top: 1px solid $smoke;
+  padding: 4px 0px;
+  a {
+    color: $smoke;
+    &:hover {
+      text-decoration: underline;
+    }
+    @media #{$mobile} {
+      text-decoration: underline;
+    }
+  }
+}
+
+.linkbox {
+  @media #{$desktop} {
+    width: 60%;
+  }
+  @media #{$mobile} {
+    width: 90%;
+  }
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 16px;
+  margin-right: auto;
+  margin-left: auto;
+  a {
+    color: $smoke;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.centered {
+  align-self: center;
+}
+
+.fixed {
+  width: 80px;
+  height: 80px;
+  @media #{$desktop} {
+    margin-right: 16px;
+  }
+  @media #{$mobile} {
+    margin-right: 16px;
+  }
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rightmost {
+  margin-left: auto;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: $main;
+  width: 100%;
+}
+
+.eggGroup {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: $pink;
+  border-radius: 4px;
+  h2 {
+    margin-top: 0px;
+  }
+  @media #{$desktop} {
+    padding: 32px;
+    margin-bottom: 16px;
+  }
+  @media #{$mobile} {
+    padding: 16px;
+    margin-bottom: 8px;
+  }
+}
