@@ -7,11 +7,10 @@
   padding: 4px 0px;
   a {
     color: $smoke;
+    text-decoration: underline;
+    transition: all 150ms ease-in-out;
     &:hover {
-      text-decoration: underline;
-    }
-    @media #{$mobile} {
-      text-decoration: underline;
+      color: $dark;
     }
   }
 }
@@ -91,7 +90,7 @@
 
 .header{
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
   button {
     margin-right: 0px;

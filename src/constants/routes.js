@@ -1,15 +1,15 @@
-const HOMEPAGE = '/';
-const CALCULATOR = '/calculator';
-const BREEDING = '/breeding';
-const TRAINING = '/training';
-const DATA = '/data';
+const CALCULATOR = 'Egg Calculator';
+const BREEDING = 'Breeding Guide';
+const TRAINING = 'Training Guide';
+const DATA = 'Glossary/Appendix';
+const EGG_GROUPS = 'Egg Groups';
 
-const routes = {
-	BREEDING,
-	CALCULATOR,
-	DATA,
-	HOMEPAGE,
-	TRAINING,
-};
+const routes = [
+	{ link: '/calculator', name: CALCULATOR },
+	{ link: '/breeding', name: BREEDING },
+	{ link: '/training', name: TRAINING },
+	{ link: '/data', name: DATA },
+	{ link: '/egg-groups', name: EGG_GROUPS },
+];
 
 export default routes;

@@ -1,22 +1,17 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { header, link, cell } from '../layout.scss';
+import routes from '@constants/routes';
+import { header, headerLink, cell } from '../layout.scss';
 
 const TITLE = 'Ditto-Tips';
-const CALCULATOR = 'Egg Calculator';
-const BREEDING = 'Breeding Guide';
-const TRAINING = 'Training Guide';
-const DATA = 'Glossary/Appendix';
-const EGG_GROUPS = 'Egg Groups';
-
 const Desktop = () => (
 	<div className={header}>
 		<Link className={cell} to="/">{TITLE}</Link>
-		<Link className={link} to="/calculator">{CALCULATOR}</Link>
-		<Link className={link} to="/breeding">{BREEDING}</Link>
-		<Link className={link} to="/training">{TRAINING}</Link>
-		<Link className={link} to="/data">{DATA}</Link>
-		<Link className={link} to="/egg-groups">{EGG_GROUPS}</Link>
+		{
+			routes.map(({ link, name }) => (
+				<Link key={name} className={headerLink} to={link}>{name}</Link>
+			))
+		}
 	</div>
 );
 
