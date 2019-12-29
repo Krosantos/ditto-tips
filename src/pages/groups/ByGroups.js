@@ -35,7 +35,7 @@ const Links = ({ keys }) => {
 	);
 };
 
-const ByGroups = () => {
+const ByGroups = ({ setBySpecies, setByGroup }) => {
 	const groups = useMemo(() => byGroup(), []);
 	const keys = useMemo(() => Object.keys(groups).sort(), [groups]);
 
@@ -46,7 +46,13 @@ const ByGroups = () => {
 			</div>
 			<div>
 				{keys.map((key) => (
-					<EggGroup key={key} group={groups[key]} groupName={key} />
+					<EggGroup
+						key={key}
+						group={groups[key]}
+						groupName={key}
+						setByGroup={setByGroup}
+						setBySpecies={setBySpecies}
+					/>
 				))}
 			</div>
 		</div>

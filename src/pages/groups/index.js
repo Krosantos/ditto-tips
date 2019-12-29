@@ -1,5 +1,6 @@
 import React, { useCallback, useState } from 'react';
 import ByGroups from './ByGroups';
+import BySpecies from './BySpecies';
 import { container, button, buttonHolder } from './groups.scss';
 
 const BY_GROUP = 'By Group';
@@ -20,7 +21,8 @@ const EggGroups = () => {
 				<button className={button} onClick={setByGroup} type="button">{BY_GROUP}</button>
 				<button className={button} onClick={setBySpecies} type="button">{BY_SPECIES}</button>
 			</div>
-			<ByGroups />
+			{view === BY_GROUP && <ByGroups setByGroup={setByGroup} setBySpecies={setBySpecies} />}
+			{view === BY_SPECIES && <BySpecies setByGroup={setByGroup} setBySpecies={setBySpecies} />}
 		</div>
 	);
 };

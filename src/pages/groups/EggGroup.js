@@ -6,7 +6,9 @@ import { eggGroup, button, header } from './groups.scss';
 
 const RETURN = 'Return to Top';
 
-const EggGroup = ({ group, groupName }) => {
+const EggGroup = ({
+	group, groupName, setBySpecies, setByGroup,
+}) => {
 	const returnToTop = useCallback(() => window.scrollTo(0, 0), []);
 
 	return (
@@ -18,7 +20,14 @@ const EggGroup = ({ group, groupName }) => {
 			</div>
 			<div>
 				{group.map(({ name, image, eggGroups }) => (
-					<EggRow key={name} eggGroups={eggGroups} image={image} name={name} />
+					<EggRow
+						key={name}
+						eggGroups={eggGroups}
+						image={image}
+						name={name}
+						setByGroup={setByGroup}
+						setBySpecies={setBySpecies}
+					/>
 				))}
 			</div>
 		</div>
