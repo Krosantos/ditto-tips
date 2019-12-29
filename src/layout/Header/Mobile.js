@@ -1,30 +1,33 @@
 import React, { useCallback, useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
+import routes from '@constants/routes';
 import '@images/icons/hamburger.png'; // eslint-disable-line import/no-unassigned-import
 import {
-	header, centerCell, menuButton, mobileMenu, link, mobileGuts,
+	header, centerCell, menuButton, mobileMenu, headerLink, mobileGuts,
 } from '../layout.scss';
 
 const TITLE = 'Ditto-Tips';
-const CALCULATOR = 'Egg Calculator';
-const BREEDING = 'Breeding Guide';
-const TRAINING = 'Training Guide';
-const DATA = 'Glossary/Appendix';
-const EGG_GROUPS = 'Egg Groups';
 
 const Menu = ({ open, toggleMenu }) => {
 	const containerStyle = useMemo(() => ({
-		height: open ? '45vh' : '0px',
+		height: open ? '35vh' : '0px',
 	}), [open]);
 
 	return (
 		<div className={mobileMenu} style={containerStyle}>
 			<div className={mobileGuts}>
-				<Link className={link} onClick={toggleMenu} to="/calculator">{CALCULATOR}</Link>
-				<Link className={link} onClick={toggleMenu} to="/breeding">{BREEDING}</Link>
-				<Link className={link} onClick={toggleMenu} to="/training">{TRAINING}</Link>
-				<Link className={link} onClick={toggleMenu} to="/data">{DATA}</Link>
-				<Link className={link} onClick={toggleMenu} to="/egg-groups">{EGG_GROUPS}</Link>
+				{
+					routes.map(({ link, name }) => (
+						<Link
+							key="name"
+							className={headerLink}
+							onClick={toggleMenu}
+							to={link}
+						>
+							{name}
+						</Link>
+					))
+				}
 			</div>
 		</div>
 	);
