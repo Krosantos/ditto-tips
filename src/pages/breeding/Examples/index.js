@@ -1,7 +1,7 @@
 import React from 'react';
 import Anchor from '@shared/Anchor';
 import Snorlax from './Snorlax';
-import Merge from './Merge';
+// import Merge from './Merge';
 import { section } from '../breeding.scss';
 
 /* eslint-disable react/jsx-no-literals, react/jsx-one-expression-per-line, max-len, react/jsx-max-depth, max-lines-per-function */

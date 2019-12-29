@@ -1,10 +1,6 @@
 import React from 'react';
 import Anchor from '@shared/Anchor';
-import snorlax from '@images/mon/snorlax.png';
-import avalugg from '@images/mon/avalugg.png';
-import destinyknot from '@images/items/destinyknot.png';
-import everstone from '@images/items/everstone.png';
-import { section, itemcell } from '../breeding.scss';
+import { section } from '../breeding.scss';
 
 /* eslint-disable react/jsx-no-literals, react/jsx-one-expression-per-line, max-len, react/jsx-max-depth, max-lines-per-function */
 const Merge = () => (

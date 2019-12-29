@@ -20,8 +20,8 @@ const bySpecies = () => {
 const BySpecies = ({ setBySpecies, setByGroup }) => {
 	const species = useMemo(() => bySpecies(), []);
 	const speciesNames = useMemo(() => species.map((mon) => mon.name), [species]);
-	const jumpToSpecies = useCallback((species) => {
-		const link = kebabCase(species);
+	const jumpToSpecies = useCallback((name) => {
+		const link = kebabCase(name);
 
 		window.location.hash = link;
 	}, []);
