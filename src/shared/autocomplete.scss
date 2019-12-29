@@ -1,0 +1,40 @@
+@import '@theme/color.scss';
+
+.autocomplete {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    position: relative;
+}
+
+.input {
+    font-family: 'Dosis';
+    border: none;
+    outline: none;
+    padding: 8px;
+    width: 100%;
+}
+
+.optionsBox {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    position: absolute;
+    top: calc(16px + 1em);
+    max-height: 14em;
+    overflow-y: scroll;
+}
+
+.optionsButton {
+    width: 100%;
+    font-family: 'Dosis';
+    padding: 4px;
+    padding-left: 8px;
+    border-top: 1px solid $silver;
+    text-align: left;
+    background-color: $white;
+    transition: all 150ms ease-in-out;
+    &:hover {
+        background-color: $pink;
+    }
+}

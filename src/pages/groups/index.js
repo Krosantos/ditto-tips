@@ -7,7 +7,7 @@ const BY_GROUP = 'By Group';
 const BY_SPECIES = 'By Species';
 
 const EggGroups = () => {
-	const [view, setView] = useState(BY_GROUP);
+	const [view, setView] = useState(BY_SPECIES);
 	const setByGroup = useCallback(() => {
 		setView(BY_GROUP);
 	}, []);
