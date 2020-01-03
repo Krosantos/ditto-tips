@@ -113,4 +113,12 @@
 .wrapper {
   margin: 41px 0px 16px 0px;
   width: 100%;
+  // page minus header minus margin minus footer
+  
+  @media #{$desktop} {
+    min-height: calc(100vh - 65px - 41px - 16px - 22px);
+  }
+  @media #{$mobile} {
+    min-height: calc(100vh - 65px - 41px - 16px - 50px);
+  }
 }
