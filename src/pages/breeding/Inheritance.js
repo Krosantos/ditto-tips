@@ -39,8 +39,8 @@ const Inheritance = () => (
 			<tbody>
 				<tr>
 					<td><a href="/data#species">Species</a></td>
-					<td>Remoraid, Blipbug</td>
-					<td>Eggs hatch into the least-evolved member of the mother&apos;s evolution family.</td>
+					<td>Snorlax, Mr. Rime</td>
+					<td>Eggs hatch into the least-evolved member of the mother&apos;s evolution family. Snorlax make Snorlax. Mr. Rime make Mr. Mime.</td>
 					<td>
 						<div className={itemcell}>
 							<img alt="" src={waveincense} />
