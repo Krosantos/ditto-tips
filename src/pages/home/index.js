@@ -1,6 +1,5 @@
 import React from 'react';
 import bigditto from '@images/bigditto.png';
-import { useMediaQuery } from 'react-responsive';
 import { container, bigDitto, centered } from './home.scss';
 
 const TITLE = 'Ditto Tips';
@@ -16,24 +15,20 @@ const Logo = () => (
 	</div>
 );
 
-const Home = () => {
-	const isMobile = useMediaQuery({ query: '(max-width : 767px)' });
-
-	return (
-		<div className={container}>
-			{isMobile && <h1>{TITLE}</h1>}
-			<div>
-				<Logo />
-			</div>
-			<p className={centered}>
-				{COPY_START}
-				<a href="/breeding">{BREED}</a>
-				{AND}
-				<a href="/training">{TRAIN}</a>
-				{COPY_END}
-			</p>
+const Home = () => (
+	<div className={container}>
+		<h1>{TITLE}</h1>
+		<div>
+			<Logo />
 		</div>
-	);
-};
+		<p className={centered}>
+			{COPY_START}
+			<a href="/breeding">{BREED}</a>
+			{AND}
+			<a href="/training">{TRAIN}</a>
+			{COPY_END}
+		</p>
+	</div>
+);
 
 export default Home;

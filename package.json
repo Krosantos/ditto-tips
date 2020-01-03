@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "webpack-dev-server --mode development",
     "lint": "eslint ./src",
-    "compile": "rm -rf dist && webpack",
+    "compile": "webpack",
     "serve": "node server",
     "clean": "rm -rf dist"
   },
