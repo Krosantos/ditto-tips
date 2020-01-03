@@ -10,7 +10,8 @@
     "dev": "webpack-dev-server --mode development",
     "lint": "eslint ./src",
     "compile": "rm -rf dist && webpack",
-    "serve": "node server"
+    "serve": "node server",
+    "clean": "rm -rf dist"
   },
   "dependencies": {
     "axios": "^0.19.0",
